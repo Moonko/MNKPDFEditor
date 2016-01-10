@@ -123,7 +123,8 @@
 		BCD9E5A790E7356F6C5117C6D74B681B /* Specta-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 757732CABCCD0D3A3DECF0188321177D /* Specta-dummy.m */; };
 		BEFFE9FFE52E9A0833A7D2D8FB67EB4D /* EXPMatchers+beSubclassOf.m in Sources */ = {isa = PBXBuildFile; fileRef = 43D9D3D0C96D5284831B2C833DD79A36 /* EXPMatchers+beSubclassOf.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		CE3F4ECBB0BC095577D66AE50C8E604C /* EXPFloatTuple.m in Sources */ = {isa = PBXBuildFile; fileRef = 57AF203F6B98E185A822F5F0BC6DB151 /* EXPFloatTuple.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		D11A1DD643FC8A82869F3A8B53A3895F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 03DDA7AF7FBEF1ABD5E86C8639DA1F2D /* ReplaceMe.m */; };
+		CF6713B61C42700400820123 /* MNKPDFMainViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = CF6713B41C42700400820123 /* MNKPDFMainViewController.h */; };
+		CF6713B71C42700400820123 /* MNKPDFMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CF6713B51C42700400820123 /* MNKPDFMainViewController.m */; };
 		D6838E42D9C50FC39B1D3006C0724E9C /* Expecta+Snapshots-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 26B782A5F5606BC64AF7B709A1D93B4E /* Expecta+Snapshots-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D7F64744555CA8BE0EBC6BC7B03C4DF4 /* ExpectaObject+FBSnapshotTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 7874ECE957DC7F80946CB43F9419C903 /* ExpectaObject+FBSnapshotTest.m */; };
 		D83677C54D2226C67886A525B0B46FBE /* EXPMatchers+beLessThanOrEqualTo.m in Sources */ = {isa = PBXBuildFile; fileRef = CD7582733015B7D005A247EF5856A0D6 /* EXPMatchers+beLessThanOrEqualTo.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
@@ -223,7 +224,6 @@
 /* Begin PBXFileReference section */
 		0160D7EDEB19856BC505CA9E9075EC06 /* SPTGlobalBeforeAfterEach.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SPTGlobalBeforeAfterEach.h; path = Specta/Specta/SPTGlobalBeforeAfterEach.h; sourceTree = "<group>"; };
 		019E1AD81738B798A40DAC1B5DC5BB31 /* Pods-MNKPDFEditor_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MNKPDFEditor_Tests.modulemap"; sourceTree = "<group>"; };
-		03DDA7AF7FBEF1ABD5E86C8639DA1F2D /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		064D45869BC2F37AD341CBDE9F822387 /* NSValue+Expecta.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSValue+Expecta.m"; path = "Expecta/NSValue+Expecta.m"; sourceTree = "<group>"; };
 		0782314CEFBB6F81294F8002EBFB578E /* EXPMatchers+equal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+equal.m"; path = "Expecta/Matchers/EXPMatchers+equal.m"; sourceTree = "<group>"; };
 		07BC24DA84E3F15453DEC37314546A77 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -369,6 +369,8 @@
 		C9787AAC93E19615A661E2994F1F4565 /* Pods-MNKPDFEditor_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MNKPDFEditor_Example-resources.sh"; sourceTree = "<group>"; };
 		CD486E43B7465271EE4EBCB98E5DAF8D /* EXPFloatTuple.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = EXPFloatTuple.h; path = Expecta/EXPFloatTuple.h; sourceTree = "<group>"; };
 		CD7582733015B7D005A247EF5856A0D6 /* EXPMatchers+beLessThanOrEqualTo.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "EXPMatchers+beLessThanOrEqualTo.m"; path = "Expecta/Matchers/EXPMatchers+beLessThanOrEqualTo.m"; sourceTree = "<group>"; };
+		CF6713B41C42700400820123 /* MNKPDFMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MNKPDFMainViewController.h; sourceTree = "<group>"; };
+		CF6713B51C42700400820123 /* MNKPDFMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MNKPDFMainViewController.m; sourceTree = "<group>"; };
 		D148E142A756A0CD8BA055B657862814 /* Expecta.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Expecta.h; path = Expecta/Expecta.h; sourceTree = "<group>"; };
 		D182CF13D4DB728DAAD9786E7E8143B2 /* EXPMatchers+beginWith.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "EXPMatchers+beginWith.h"; path = "Expecta/Matchers/EXPMatchers+beginWith.h"; sourceTree = "<group>"; };
 		D185CE6943CD76847FA958D3B77C57F9 /* UIImage+Diff.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+Diff.h"; path = "FBSnapshotTestCase/Categories/UIImage+Diff.h"; sourceTree = "<group>"; };
@@ -727,7 +729,8 @@
 		C0F2D5280A0240F9A22F07AE486B92C4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				03DDA7AF7FBEF1ABD5E86C8639DA1F2D /* ReplaceMe.m */,
+				CF6713B41C42700400820123 /* MNKPDFMainViewController.h */,
+				CF6713B51C42700400820123 /* MNKPDFMainViewController.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -897,6 +900,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B5B7495707BF7133B9FB3F834045611 /* EXPBlockDefinedMatcher.h in Headers */,
+				CF6713B61C42700400820123 /* MNKPDFMainViewController.h in Headers */,
 				5EA7043FE10E75D02F3C3052AF8B8318 /* EXPDefines.h in Headers */,
 				2F427490ACABC4408D57CC0592276678 /* EXPDoubleTuple.h in Headers */,
 				837B593D7C1D01B4EA400247309D6AB0 /* Expecta-umbrella.h in Headers */,
@@ -1199,7 +1203,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA3ECFEBCCF27DC5FFD7B01E9B00C23A /* MNKPDFEditor-dummy.m in Sources */,
-				D11A1DD643FC8A82869F3A8B53A3895F /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1220,6 +1223,7 @@
 				204D694B03BFF3B244A6AB73FACFFC43 /* Expecta-dummy.m in Sources */,
 				94C47C87E397972CE98F75929F3B706C /* ExpectaObject.m in Sources */,
 				4BBCBB9D8EF0B241A4A4FE4982985481 /* ExpectaSupport.m in Sources */,
+				CF6713B71C42700400820123 /* MNKPDFMainViewController.m in Sources */,
 				805E425BBEF7A6133E32E1D30A073010 /* EXPExpect.m in Sources */,
 				CE3F4ECBB0BC095577D66AE50C8E604C /* EXPFloatTuple.m in Sources */,
 				201BF9C605852822CA5A65ADE282A310 /* EXPMatcherHelpers.m in Sources */,
@@ -1373,7 +1377,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
@@ -1439,7 +1442,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				ONLY_ACTIVE_ARCH = YES;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
