@@ -1,0 +1,15 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'MNKPDFEditor_Example', :exclusive => true do
+  pod "MNKPDFEditor", :path => "../"
+end
+
+target 'MNKPDFEditor_Tests', :exclusive => true do
+  pod "MNKPDFEditor", :path => "../"
+
+  pod 'Specta'
+  pod 'Expecta'
+  pod 'FBSnapshotTestCase'
+  pod 'Expecta+Snapshots'
+end
