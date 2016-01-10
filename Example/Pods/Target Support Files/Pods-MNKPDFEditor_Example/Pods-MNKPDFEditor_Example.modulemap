@@ -1,0 +1,6 @@
+framework module Pods_MNKPDFEditor_Example {
+  umbrella header "Pods-MNKPDFEditor_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MNKPDFEditor {
+  umbrella header "MNKPDFEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}
