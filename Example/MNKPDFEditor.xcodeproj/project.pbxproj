@@ -14,7 +14,7 @@
 		6003F598195388D20070C39A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6003F596195388D20070C39A /* InfoPlist.strings */; };
 		6003F59A195388D20070C39A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F599195388D20070C39A /* main.m */; };
 		6003F59E195388D20070C39A /* MNKPDFAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F59D195388D20070C39A /* MNKPDFAppDelegate.m */; };
-		6003F5A7195388D20070C39A /* MNKPDFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5A6195388D20070C39A /* MNKPDFViewController.m */; };
+		6003F5A7195388D20070C39A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5A6195388D20070C39A /* ViewController.m */; };
 		6003F5A9195388D20070C39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5A8195388D20070C39A /* Images.xcassets */; };
 		6003F5B0195388D20070C39A /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F5AF195388D20070C39A /* XCTest.framework */; };
 		6003F5B1195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
@@ -23,6 +23,8 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		948EABA8DCFBD56F75474A6A /* Pods_MNKPDFEditor_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA9E24E9BEC1BA2CC9E4CFEC /* Pods_MNKPDFEditor_Tests.framework */; };
+		CFA53DE21CA713200080361E /* example.pdf in Resources */ = {isa = PBXBuildFile; fileRef = CFA53DE11CA713200080361E /* example.pdf */; };
+		CFA53E761CA7188E0080361E /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFA53E751CA7188E0080361E /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,8 +53,8 @@
 		6003F59B195388D20070C39A /* MNKPDFEditor-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MNKPDFEditor-Prefix.pch"; sourceTree = "<group>"; };
 		6003F59C195388D20070C39A /* MNKPDFAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MNKPDFAppDelegate.h; sourceTree = "<group>"; };
 		6003F59D195388D20070C39A /* MNKPDFAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MNKPDFAppDelegate.m; sourceTree = "<group>"; };
-		6003F5A5195388D20070C39A /* MNKPDFViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MNKPDFViewController.h; sourceTree = "<group>"; };
-		6003F5A6195388D20070C39A /* MNKPDFViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MNKPDFViewController.m; sourceTree = "<group>"; };
+		6003F5A5195388D20070C39A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		6003F5A6195388D20070C39A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6003F5A8195388D20070C39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6003F5AE195388D20070C39A /* MNKPDFEditor_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MNKPDFEditor_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F5AF195388D20070C39A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -63,6 +65,8 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		BA9E24E9BEC1BA2CC9E4CFEC /* Pods_MNKPDFEditor_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MNKPDFEditor_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF231E6956C9516DA411B134 /* MNKPDFEditor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MNKPDFEditor.podspec; path = ../MNKPDFEditor.podspec; sourceTree = "<group>"; };
+		CFA53DE11CA713200080361E /* example.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = example.pdf; sourceTree = "<group>"; };
+		CFA53E751CA7188E0080361E /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		D8325C483D20C5F0ABF252B6 /* Pods_MNKPDFEditor_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MNKPDFEditor_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCE19845D6C896240A0311E8 /* Pods-MNKPDFEditor_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MNKPDFEditor_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MNKPDFEditor_Example/Pods-MNKPDFEditor_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -144,8 +148,9 @@
 				6003F59C195388D20070C39A /* MNKPDFAppDelegate.h */,
 				6003F59D195388D20070C39A /* MNKPDFAppDelegate.m */,
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
-				6003F5A5195388D20070C39A /* MNKPDFViewController.h */,
-				6003F5A6195388D20070C39A /* MNKPDFViewController.m */,
+				6003F5A5195388D20070C39A /* ViewController.h */,
+				6003F5A6195388D20070C39A /* ViewController.m */,
+				CFA53DE11CA713200080361E /* example.pdf */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
 			);
@@ -160,6 +165,7 @@
 				6003F596195388D20070C39A /* InfoPlist.strings */,
 				6003F599195388D20070C39A /* main.m */,
 				6003F59B195388D20070C39A /* MNKPDFEditor-Prefix.pch */,
+				CFA53E751CA7188E0080361E /* Launch Screen.storyboard */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -279,6 +285,8 @@
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
 				6003F598195388D20070C39A /* InfoPlist.strings in Resources */,
+				CFA53E761CA7188E0080361E /* Launch Screen.storyboard in Resources */,
+				CFA53DE21CA713200080361E /* example.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,7 +399,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6003F59E195388D20070C39A /* MNKPDFAppDelegate.m in Sources */,
-				6003F5A7195388D20070C39A /* MNKPDFViewController.m in Sources */,
+				6003F5A7195388D20070C39A /* ViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
