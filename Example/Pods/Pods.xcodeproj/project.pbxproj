@@ -10,6 +10,111 @@
 	<string>46</string>
 	<key>objects</key>
 	<dict>
+		<key>00B1E3202AAFFF79EF574488246E28FF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9D9E20C6EAC33F3F22A3FE597D0C2232</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>00BA2266D629B6A465D47C853732FD8D</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolbar.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>00C453A71F85B3C61F10130DD2168212</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>DA57F9DF5291622420415C8946F4C32B</string>
+				<string>88CB4F48E8BD04C936C7667C3EDEB101</string>
+				<string>B8A21AD16DF620F9E057C23A15348330</string>
+				<string>B1E8403D7E1CE91F50BC24035A871002</string>
+				<string>E6B6BFE80190C08C18553CC90C0ABB56</string>
+				<string>AE1862A9C10FDE5BE3198256A076800E</string>
+				<string>9A6D37277294314D8C3D154FBF2BE8BE</string>
+				<string>9652A54AE493D97902D3EBB51C1DC3B1</string>
+				<string>D3808E3F019947385B241D515B79543A</string>
+				<string>2EE62CC16FA76CC8FC7B20892BE5DF45</string>
+				<string>57709723FAC630C3FF2D05EB3DBE8914</string>
+				<string>00BA2266D629B6A465D47C853732FD8D</string>
+				<string>3404CE08314C9097D7DA74D07ED839AA</string>
+				<string>58D8F6EAC987A21ECC231997D839DED1</string>
+				<string>36718F61C954C8A9ED5184450F4540C7</string>
+				<string>E774B7E61C3AC009CFA67C204F9B9676</string>
+				<string>119F5190C4A147D0EA8E7367B7F8C979</string>
+				<string>5B42D6F34E4F480481CE2522F36BFE2B</string>
+				<string>0FD4AA167EEBF6626F846AB2CD6C6B72</string>
+				<string>3BC2C0AFF151C84F7271BA1E9065541E</string>
+				<string>2DAC80A02A435DB07B13D7CE41D9F7DD</string>
+				<string>EABA0E23C43FCEA9E76D52EAF1B3FDCA</string>
+				<string>E8D56EC97C650A822E7781DED750ED28</string>
+				<string>F04FBACA94609DAAB8AB2CFAEF8B2C07</string>
+				<string>4A3AE5CEC80BA41E0B45AF53F9D9B1D4</string>
+				<string>40D85BA3C1D65DC568DF49DD7778337E</string>
+				<string>9D61B1D155893F0FB593C5DF71CD0A8F</string>
+				<string>CF9F8613557B60701561C52ADE1F365E</string>
+				<string>13AEAE5ECD1290C67BAAF65F1E00F689</string>
+				<string>668D26D79291E44302F8E1F098CF90E2</string>
+				<string>EAB7462F1E0B67CD20200D24325106B1</string>
+				<string>17D41387C06510016DFB342003BDB3E3</string>
+				<string>265ECB2AE8A8EB302B57903394FC33FE</string>
+				<string>AF1849438761C44CEE60EFD75658056B</string>
+				<string>769CA30FF986917E022F6F9AAC6A8921</string>
+				<string>174FD413E2A73A6F7B0E125DD084F854</string>
+				<string>B978083E1FB3A1CCFE73190B48B7C782</string>
+				<string>11F4BC1008EBCA6CC11E268174936883</string>
+				<string>D7B1C2292126B71729D3EA748F197CB7</string>
+				<string>98EBD539BB00F6A8E3534E0B95CCF5B2</string>
+				<string>389748B0F2B0D3E01F1FF84349F4F72B</string>
+				<string>C391343AFCFC15EC0A18A5989D63C45A</string>
+				<string>6781D2E789C3D25CF17ED8424DBA9672</string>
+				<string>8E3B8A462584BA1D39E13C4F651D4E26</string>
+				<string>5F7DC442E90BA5007A01E39FA86854EE</string>
+				<string>99E2ED4E50F63BEF8E29D3B001718348</string>
+				<string>8BD5B9E72BAEC2BC73432B5A738881F7</string>
+				<string>C08571B8C5572E69DAAB225218A1BFE0</string>
+				<string>A716DEFEA9DE74C916A2CD295871B926</string>
+				<string>B220988DF4EC6CCCC42D207F4595EBD8</string>
+				<string>37FA9F4D26F41E75C06298E5A962A398</string>
+				<string>9D9E20C6EAC33F3F22A3FE597D0C2232</string>
+				<string>229E06B5F8E4462728B086B97183F523</string>
+				<string>54A8D06389EF64F15778FB4B7CA512A4</string>
+				<string>7CAE95357500015C2D9BD861019D8F4B</string>
+				<string>437A1D011796F5A5677C0F292AD9356B</string>
+				<string>52EE7C2B9C01EE7DABB8E660A5676B25</string>
+				<string>A847ED76BDA8C292A114C6CB8A161CE1</string>
+				<string>205C6782DFD37EACC24BE3291192B3BF</string>
+				<string>937AE0CF9046541DC2DFB7984B30EDF7</string>
+				<string>D04A1786FE03CE89A4DA232724370AAC</string>
+				<string>26F733AF83177A2B2A88B18F899F3F87</string>
+				<string>B17037E0C643FF1250D0580872E19B13</string>
+				<string>C1DB05B8DA8A1B82A35FA3535C2B7B37</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Classes</string>
+			<key>path</key>
+			<string>Classes</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>00DECDC1648917574457E9CA36883C65</key>
 		<dict>
 			<key>isa</key>
@@ -17,9 +122,23 @@
 			<key>name</key>
 			<string>MNKPDFEditor</string>
 			<key>target</key>
-			<string>93E2DCF2495D0EE1ACDEDC3361591DFB</string>
+			<string>BB962E6A33CB02D17CD63BA048E16A40</string>
 			<key>targetProxy</key>
 			<string>806A72EEA59F0472A2A4DC12E5E33B32</string>
+		</dict>
+		<key>01223446F0CDB158AECA2D38EBDF4B51</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D3808E3F019947385B241D515B79543A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>0160D7EDEB19856BC505CA9E9075EC06</key>
 		<dict>
@@ -60,6 +179,13 @@
 			<string>Pods-MNKPDFEditor_Tests.modulemap</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>03440049DC0D0BEF12841D718B0FFD2F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>ECE2F34430398BA3207F4D16C5CCA40E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>03CA91998D6773EC5D02B3DB87B8353E</key>
 		<dict>
@@ -129,18 +255,19 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>03DEEAA9E21A0B539DE07DD5C9F9F98E</key>
+		<key>043641F102D8C04A75D62DE84AE1D626</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>A847ED76BDA8C292A114C6CB8A161CE1</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFContentView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>045A3F5DF22C59C4962955C205183D46</key>
 		<dict>
@@ -205,31 +332,12 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>04E6B95E4C572A0A7E8E43EFD8E62894</key>
+		<key>04C429AE360651FC12415E2F2802E6C7</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>9DDCEAEC852066D3A36B6C63DBC1EB39</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFMainPagebar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>063B3D444A588A9FCE275194FEEE37E3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFTiledLayer.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>064D45869BC2F37AD341CBDE9F822387</key>
 		<dict>
@@ -246,26 +354,26 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>070E585E5C2F6DA7FE54E1F65E7F9339</key>
+		<key>06B2390892F8836D8CAC1E04C620813B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5DAC8C1BAEEE9C05A825449D85533D7A</string>
+			<string>920D9D0BAB6D5F7B699BF7E645ADB6E1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>076D1FFDF2FEA3D0E09FB9FED6A9D86E</key>
+		<key>06E57D7207270AE637AAC283A34C0A73</key>
 		<dict>
-			<key>fileRef</key>
-			<string>681A01302A5E1A4BEFEA064E4CF2B309</string>
+			<key>buildConfigurations</key>
+			<array>
+				<string>388B3694C57CF6F3DBE9D61D0493CAC6</string>
+				<string>277D9A328DB2F572307C7A3746757BA2</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>XCConfigurationList</string>
 		</dict>
 		<key>0782314CEFBB6F81294F8002EBFB578E</key>
 		<dict>
@@ -330,10 +438,10 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>089D5F27DF078B50A3EBAFE1BECB6F62</key>
+		<key>0890EBED25C9F3C4DAB2A6A79A626115</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9BD56F560CB0CD1C7E786BB7E7EB4A04</string>
+			<string>119F5190C4A147D0EA8E7367B7F8C979</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -357,6 +465,20 @@
 		<dict>
 			<key>fileRef</key>
 			<string>979A46F25D9FAAF442E8F9E6AF55F135</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>0A3CE57C1F826B60142D45692F09EDDA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EAB7462F1E0B67CD20200D24325106B1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -392,6 +514,13 @@
 			<string>Eraser.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>0AB5C21A73EC9A08131C6D9F5C3A99E6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>BCF6C05518C4B1E364313CC83FB3A22E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>0B57334D6C23DADAA4F7D802A5760EB2</key>
 		<dict>
@@ -570,20 +699,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>0E5F1E6E620086BCF03BA8BBFBA14087</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ADDA3311A5BE39D626F5BB757A24C27D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>0EBFA5FBE4953A83B677CE2A75746761</key>
 		<dict>
 			<key>fileRef</key>
@@ -610,6 +725,19 @@
 				</array>
 			</dict>
 		</dict>
+		<key>0FD4AA167EEBF6626F846AB2CD6C6B72</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolEraser.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>10822617A9582C3F9A6F1B8E67E0751F</key>
 		<dict>
 			<key>explicitFileType</key>
@@ -625,6 +753,19 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
+		<key>119F5190C4A147D0EA8E7367B7F8C979</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolEllipse.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>11C1AEB289C1EB80089349B71F09D04B</key>
 		<dict>
 			<key>fileRef</key>
@@ -638,6 +779,19 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>11F4BC1008EBCA6CC11E268174936883</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFPageNumberLabel.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>1312A7D381C51428CF481E33E3D37901</key>
 		<dict>
@@ -665,7 +819,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>13183C70F48F4315ED6D50316227B379</key>
+		<key>13AEAE5ECD1290C67BAAF65F1E00F689</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -674,36 +828,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MNKPDFDrawingToolEllipse.h</string>
+			<string>MNKPDFDrawingView.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1337D5C818B6B9B2842382AAE58EDAB2</key>
-		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>4072D155FFB7879CBE09AC173D5CAE95</string>
-				<string>6FE26A0E4AA54FC935BCD92C4ABB7811</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
-			<key>isa</key>
-			<string>XCConfigurationList</string>
-		</dict>
-		<key>13854EBF8312ED8F880F80E1D9683C0F</key>
-		<dict>
-			<key>containerPortal</key>
-			<string>D41D8CD98F00B204E9800998ECF8427E</string>
-			<key>isa</key>
-			<string>PBXContainerItemProxy</string>
-			<key>proxyType</key>
-			<string>1</string>
-			<key>remoteGlobalIDString</key>
-			<string>5FBE11AEC84BC21B212D3F3B69C255B5</string>
-			<key>remoteInfo</key>
-			<string>MNKPDFEditor-MNKPDFEditor</string>
 		</dict>
 		<key>143EABB2B234961F56E64C8DA488D995</key>
 		<dict>
@@ -785,17 +912,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>15FB8A2C1D2808BCDFA3B8088526A1BC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B0C492459FB4FB2916EFC519B5A2FE7A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>160FDA46EE919AAF97E0E4EC04C9E232</key>
 		<dict>
 			<key>fileRef</key>
 			<string>3CF01F310BCD4F2E114A0BB3796FAA47</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1622BA480665AD3A70CFEE6E01DED1C4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>52E9E7FC1FB1D5459C60F6EEEB39084F</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -807,6 +934,19 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>FBSnapshotTestCase.modulemap</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>174FD413E2A73A6F7B0E125DD084F854</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFModelViewController.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -837,7 +977,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>17B3BEC128037EDF20AC8E5A98CC459A</key>
+		<key>17D41387C06510016DFB342003BDB3E3</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -874,7 +1014,7 @@
 			<key>proxyType</key>
 			<string>1</string>
 			<key>remoteGlobalIDString</key>
-			<string>93E2DCF2495D0EE1ACDEDC3361591DFB</string>
+			<string>BB962E6A33CB02D17CD63BA048E16A40</string>
 			<key>remoteInfo</key>
 			<string>MNKPDFEditor</string>
 		</dict>
@@ -893,6 +1033,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>19D891E2E6AB418279C87CF18B1EC7CC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>265ECB2AE8A8EB302B57903394FC33FE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>1A1AB2EC52323C5EA28DAA99F1E1A90D</key>
 		<dict>
 			<key>fileRef</key>
@@ -906,13 +1053,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>1A9F87ED2CC825CCA3DDDF2ED14E990A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F7275069482A724C0D580E9768D4D560</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>1AB3304B6884F626BC54150AC7565E18</key>
 		<dict>
@@ -941,6 +1081,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>1ACB4989DDD1BCFC4720BAB38A944140</key>
+		<dict>
+			<key>fileRef</key>
+			<string>40D85BA3C1D65DC568DF49DD7778337E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>1B0389CD88AA949B34DC7269030FEC6F</key>
 		<dict>
 			<key>fileRef</key>
@@ -953,20 +1107,6 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>1BAE2AD35E18CA814DAC2BCF16F7A8E9</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B89D8FCFA5528FA3334AE378A7C5F22B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1BFD7DFAFDEB1B99B369A72FF135FD0A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FEE550CF1C9B49911CF05AAC9F6150EF</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>1C2AFD680CC4FE95FB3373C71B11D939</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -975,26 +1115,6 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>MNKPDFEditor.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>1C85828ECC804DCA4BC1DF93FFC860F8</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FFDD1AF8D4B4F4FFF9FD1322F0A5868B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>1C89F4BCC1E0741012A9997F3C446B74</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFThumbCell.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1054,10 +1174,17 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>1DB238E498C8E689F601E012E7D36DDE</key>
+		<key>1D6CC33F6C0C275C583F2D2AB7E3F69B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>815D05A0DDD4BA1D3D6DD54A4158F247</string>
+			<string>0A7FCFB1F8E34994C663D625D9095195</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>1DA22CCE23165A0FEB56E6A03B99E713</key>
+		<dict>
+			<key>fileRef</key>
+			<string>82F7C9173ACCE0C6E3212E12ABA644EC</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -1117,6 +1244,20 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
+		<key>1E1FE3158D12F9F03EDEE4362D3CADC6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>98EBD539BB00F6A8E3534E0B95CCF5B2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>1E7BBDA96EB748B4566D121043C548C0</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1144,19 +1285,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>1FD596783873F70C4B6601DC3FABF0EC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingTool.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>201BF9C605852822CA5A65ADE282A310</key>
 		<dict>
 			<key>fileRef</key>
@@ -1176,27 +1304,18 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>20613FF0839BA674DDF4C631106BB91A</key>
+		<key>205C6782DFD37EACC24BE3291192B3BF</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FD1327A2E27D58475900467E5FC2DF90</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>MNKPDFEditor</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2068B835ED9B2C7FFA8A3D65EF043612</key>
 		<dict>
@@ -1208,20 +1327,6 @@
 			<string>Line@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>20ADC511361C61CCE6AEC730F774F0C3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E410751757103423D8563AC2786FEF17</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>210A31744EBC9E63EE69159ACA6B0A3A</key>
 		<dict>
@@ -1250,25 +1355,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2196EB27A0BD37E7024DB90AA3BF01FA</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFThumbView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>21A6D5C64D1DFE2FD1A36E888FE1104B</key>
+		<key>21EEE1252C861719657BB96490FD1462</key>
 		<dict>
 			<key>fileRef</key>
-			<string>758CA7A948F717E53624AB4C0252AC16</string>
+			<string>174FD413E2A73A6F7B0E125DD084F854</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>222277628576E6CB279473688BA88F01</key>
 		<dict>
@@ -1300,6 +1399,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>229E06B5F8E4462728B086B97183F523</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFThumbView.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>22C6E607E674AB20554080B3E2A4B463</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1312,20 +1424,6 @@
 			<string>EXPMatchers+FBSnapshotTest.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>2347729FD010AA5CA0605319D56677F4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DE676A62FC096DFBB2439182A550124B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>237C1D40E94ECB9726EC1CC5E6691588</key>
 		<dict>
@@ -1349,18 +1447,19 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2494A3DC024B612C72510F5443881E01</key>
+		<key>23E9221A4423937AEFCB0EDC3FBAC5FF</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>7907AFAF077267077014B78A4D7A2222</string>
-			</array>
+			<key>fileRef</key>
+			<string>4DE96C115F62EE02F86F175395830B56</string>
 			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>24B1D8B0BCCC7858307F17507B73A548</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5F7DC442E90BA5007A01E39FA86854EE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>25823D98072A86925BD8984853B7788E</key>
 		<dict>
@@ -1402,6 +1501,33 @@
 				</array>
 			</dict>
 		</dict>
+		<key>2643923A6F467556778D8029A0E04761</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E774B7E61C3AC009CFA67C204F9B9676</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>265ECB2AE8A8EB302B57903394FC33FE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFMainPagebar.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>26B782A5F5606BC64AF7B709A1D93B4E</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1412,6 +1538,26 @@
 			<string>sourcecode.c.h</string>
 			<key>path</key>
 			<string>Expecta+Snapshots-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>26F37FAE74635E79C6FEB1EC254307EB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B978083E1FB3A1CCFE73190B48B7C782</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>26F733AF83177A2B2A88B18F899F3F87</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>UIImage_MNKPDFEditorBundle.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -1441,6 +1587,62 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
+		<key>277D9A328DB2F572307C7A3746757BA2</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>FD1327A2E27D58475900467E5FC2DF90</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/MNKPDFEditor/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
+				<array>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
+				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>NO</string>
+				<key>PRODUCT_NAME</key>
+				<string>MNKPDFEditor</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
 		<key>2798D05B48CD715F1F561FBBAEA8502D</key>
 		<dict>
 			<key>isa</key>
@@ -1467,20 +1669,6 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>285298A886820642444510E45B8CC095</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6C48809206ED98680E7B8766F443BC70</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>28980D1268BF5D8196D266D4FC2F50E4</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1496,13 +1684,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>28C706D373A5C26D1D61AFA0B7F5D311</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3CF01F310BCD4F2E114A0BB3796FAA47</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>2916A0606136A9DC67F2463AB230868B</key>
 		<dict>
 			<key>fileRef</key>
@@ -1517,13 +1698,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>296E4FC7A27E6F0FFC62ABEACCF20A63</key>
-		<dict>
-			<key>fileRef</key>
-			<string>3F89465B72C23B57CBE5D370DD3A78F7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>2A6BE559E7DAE5CE7ACCD4185FFBB851</key>
 		<dict>
 			<key>fileRef</key>
@@ -1531,12 +1705,20 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2B13D0BAD995FA23907B2699695CF5A3</key>
+		<key>2AC06A562EC200EDA9DAD1D87DBF9063</key>
 		<dict>
-			<key>fileRef</key>
-			<string>881A72D490065FC597A354716EACC58D</string>
+			<key>children</key>
+			<array>
+				<string>00C453A71F85B3C61F10130DD2168212</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>Pod</string>
+			<key>path</key>
+			<string>Pod</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2B188CFFFD88F87A64F3F4B9FC388AC3</key>
 		<dict>
@@ -1630,6 +1812,19 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
+		<key>2DAC80A02A435DB07B13D7CE41D9F7DD</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolLine.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>2E14619153A453BB8DF389FB6EA147BE</key>
 		<dict>
 			<key>fileRef</key>
@@ -1662,12 +1857,18 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>2F185564676401ACC445BD1D02332FBE</key>
+		<key>2EE62CC16FA76CC8FC7B20892BE5DF45</key>
 		<dict>
-			<key>fileRef</key>
-			<string>E7EF3902009242B6DA471B33E42BD0D1</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDocument.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>2F1E859E32D523B17CD8D94AED21A1D4</key>
 		<dict>
@@ -1711,10 +1912,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>2F64CA23AA1F97A8FABF63DBDFC5D582</key>
+		<key>3022BC16305DDCD3D739FFC1519FE2CA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>04E6B95E4C572A0A7E8E43EFD8E62894</string>
+			<string>9652A54AE493D97902D3EBB51C1DC3B1</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -1746,6 +1947,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>31655255EA8B483BFAFA4B666CAA8759</key>
+		<dict>
+			<key>fileRef</key>
+			<string>57709723FAC630C3FF2D05EB3DBE8914</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>31F1981551C0848D61FC74E644346D39</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2DAC80A02A435DB07B13D7CE41D9F7DD</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>326BD5588DB8F7688DBA6875117A3D6B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1759,19 +1981,18 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>32A3EC6A7C15611E127DBF7EE9C3563C</key>
+		<key>32A2877C3F588A63CC4A84733E35D54D</key>
 		<dict>
-			<key>fileRef</key>
-			<string>17B3BEC128037EDF20AC8E5A98CC459A</string>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>46BC6210556719D3C19834B3FF8C7FD0</string>
+			</array>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>32E2EEDCF7B439131C96F5814F36E2A4</key>
 		<dict>
@@ -1785,6 +2006,20 @@
 			<string>MNKPDFEditor-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>32E79764EE84C02D68AF6B5D849F24C5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>937AE0CF9046541DC2DFB7984B30EDF7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>33C35331B5791C85920198E31A6E6396</key>
 		<dict>
@@ -1801,6 +2036,33 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>33EE5282DB44D89AC283185B1D61C095</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C391343AFCFC15EC0A18A5989D63C45A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>3404CE08314C9097D7DA74D07ED839AA</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolbar.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>34B6E9A30603BEBBD87BA535B7D384CA</key>
 		<dict>
 			<key>fileRef</key>
@@ -1814,13 +2076,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>34E322BCB150DFC1003B2470C7931F11</key>
-		<dict>
-			<key>fileRef</key>
-			<string>620449B29545A5D910F4C7E4F2145B27</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>34EF039657E7EAF2C747CD320B96C5F8</key>
 		<dict>
@@ -1870,6 +2125,33 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
+		<key>363D537DE3BF8DB19C8B6A491E56C804</key>
+		<dict>
+			<key>fileRef</key>
+			<string>437A1D011796F5A5677C0F292AD9356B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>36718F61C954C8A9ED5184450F4540C7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolbarButton.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>370C8488ABDC015700FCF97F059BFD42</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -1896,6 +2178,13 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>379744ED570B595F874B0F8844DFC5B3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2EE62CC16FA76CC8FC7B20892BE5DF45</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>37A2D0F8493469EF2495FC689440F079</key>
 		<dict>
@@ -1925,6 +2214,19 @@
 			<string>Expecta.framework</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
+		</dict>
+		<key>37FA9F4D26F41E75C06298E5A962A398</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFThumbsViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>381D1992365EECA21564631C194BE563</key>
 		<dict>
@@ -1966,19 +2268,74 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>38EA4DBD3B6BF74E958AAE2CBFD375FB</key>
+		<key>388B3694C57CF6F3DBE9D61D0493CAC6</key>
 		<dict>
-			<key>fileRef</key>
-			<string>520A2320D10277420FDD9CC82EFA29F6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
+			<key>baseConfigurationReference</key>
+			<string>FD1327A2E27D58475900467E5FC2DF90</string>
+			<key>buildSettings</key>
 			<dict>
-				<key>ATTRIBUTES</key>
+				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
+				<string>iPhone Developer</string>
+				<key>CURRENT_PROJECT_VERSION</key>
+				<string>1</string>
+				<key>DEFINES_MODULE</key>
+				<string>YES</string>
+				<key>DYLIB_COMPATIBILITY_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_CURRENT_VERSION</key>
+				<string>1</string>
+				<key>DYLIB_INSTALL_NAME_BASE</key>
+				<string>@rpath</string>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>GCC_PREFIX_HEADER</key>
+				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor-prefix.pch</string>
+				<key>INFOPLIST_FILE</key>
+				<string>Target Support Files/MNKPDFEditor/Info.plist</string>
+				<key>INSTALL_PATH</key>
+				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
+				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
+				<string>7.1</string>
+				<key>LD_RUNPATH_SEARCH_PATHS</key>
 				<array>
-					<string>Public</string>
+					<string>$(inherited)</string>
+					<string>@executable_path/Frameworks</string>
+					<string>@loader_path/Frameworks</string>
 				</array>
+				<key>MODULEMAP_FILE</key>
+				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor.modulemap</string>
+				<key>MTL_ENABLE_DEBUG_INFO</key>
+				<string>YES</string>
+				<key>PRODUCT_NAME</key>
+				<string>MNKPDFEditor</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>TARGETED_DEVICE_FAMILY</key>
+				<string>1,2</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
+				<key>VERSION_INFO_PREFIX</key>
+				<string></string>
 			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>389748B0F2B0D3E01F1FF84349F4F72B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFPageTrackControl.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>397B320B7C59C168CC5B62E18ED8DEA0</key>
 		<dict>
@@ -2037,10 +2394,17 @@
 				</array>
 			</dict>
 		</dict>
-		<key>3AEDC66C0A50C3C7F80F3155AC34AF5B</key>
+		<key>3A53023FA48D7C4999B19397234E2DE9</key>
 		<dict>
 			<key>fileRef</key>
-			<string>ECE2F34430398BA3207F4D16C5CCA40E</string>
+			<string>B1E8403D7E1CE91F50BC24035A871002</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>3B0A1484A1EDA03988AFE42EDD693BBB</key>
+		<dict>
+			<key>fileRef</key>
+			<string>52C13BEB86078ED7256E982F80D781D9</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2073,6 +2437,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>3BC2C0AFF151C84F7271BA1E9065541E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolLine.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>3C2700C7DAA15C6AF84A595865C42F4D</key>
 		<dict>
 			<key>fileRef</key>
@@ -2100,6 +2477,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>3C974E11738C6E49923258B4C37115DA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>668D26D79291E44302F8E1F098CF90E2</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>3CF01F310BCD4F2E114A0BB3796FAA47</key>
 		<dict>
 			<key>isa</key>
@@ -2112,19 +2496,6 @@
 			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/Foundation.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>3D86FB9A879DCCDA7E31D71BD3498F75</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFConstants.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>3DA8473E9C7CE1583F74DFBDAE8B0854</key>
 		<dict>
@@ -2179,19 +2550,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>3F89465B72C23B57CBE5D370DD3A78F7</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFPageNumberLabel.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>3F8DF4F2975756D14CD7259F335575A7</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2239,68 +2597,18 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>4072D155FFB7879CBE09AC173D5CAE95</key>
+		<key>40D85BA3C1D65DC568DF49DD7778337E</key>
 		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FD1327A2E27D58475900467E5FC2DF90</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/MNKPDFEditor/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>MNKPDFEditor</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Debug</string>
-		</dict>
-		<key>411096BEED974A72B5A3F53DA7A3C504</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D0E0DC585DCB04672EAF0FBB78D5472B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingTools.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>419377E544AC43AB5272D6BABBDFC7F4</key>
 		<dict>
@@ -2314,20 +2622,6 @@
 			<string>Expecta+Snapshots-prefix.pch</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>41CCEAB5E5FBD77F75C27B461CA5CADA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8A636E66D21EE34AA662B9A4B45DFEB3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>41D2FD57879026686A33440F6940BBDD</key>
 		<dict>
@@ -2378,19 +2672,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>427316F93288A47462C5C2D6054E1240</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolSettings.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>428F5AA64CB12DFC1C335C47914064E0</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2419,6 +2700,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>437A1D011796F5A5677C0F292AD9356B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFToolbarView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>43D9D3D0C96D5284831B2C833DD79A36</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2433,33 +2727,6 @@
 			<string>Expecta/Matchers/EXPMatchers+beSubclassOf.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4406DA10AA2B8556E1C315839DDB2D7A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolEraser.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>4408D81FBBF6C907E82D000592FCB929</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EB433D82B5B77B46451F1E55150DFBD2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>440D66E588045F580B1B2F4A3F2C142B</key>
 		<dict>
@@ -2527,13 +2794,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>469192BC19CB92BAD9BE185BEB1699B5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>F120994942024891CA2BF9C7D58C7D8E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>4696AD68288203DDD9CFC3B92504FF49</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -2563,6 +2823,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>46BC6210556719D3C19834B3FF8C7FD0</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3CF01F310BCD4F2E114A0BB3796FAA47</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>471FD4F68E27AB26FA2AEBB8B245CEE4</key>
 		<dict>
 			<key>fileRef</key>
@@ -2577,31 +2844,26 @@
 				</array>
 			</dict>
 		</dict>
-		<key>47B9714DF94A1F1F3498770AE6C05B7D</key>
+		<key>47EF9C823555CAA9515D2993C1956747</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>7CAE95357500015C2D9BD861019D8F4B</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolLine.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>48EDFEEBE0F9D4FC87F399FF297A59F3</key>
+		<key>49D5D878A5B03939B90EADE52EC3AED8</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>8E3B8A462584BA1D39E13C4F651D4E26</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKReordableLayout.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>4A13AEBD3A512EC975C2DD3AF8D8931D</key>
 		<dict>
@@ -2613,6 +2875,19 @@
 			<string>text.xcconfig</string>
 			<key>path</key>
 			<string>Expecta+Snapshots.xcconfig</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>4A3AE5CEC80BA41E0B45AF53F9D9B1D4</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolRectangle.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2729,24 +3004,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>50637EFA1E5358FADA44EE569464CD69</key>
+		<key>4F02672E66EB4D54C87568BD1FFCAE94</key>
 		<dict>
 			<key>fileRef</key>
-			<string>1FD596783873F70C4B6601DC3FABF0EC</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>507AB10FD3730838F3F7B7003C634D3C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6531EACD485E753B40E30936FFCB2240</string>
+			<string>4596B0EC5DEB94F7C21262C7B5F5839A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -2762,19 +3023,6 @@
 			<string>Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.0.sdk/System/Library/Frameworks/XCTest.framework</string>
 			<key>sourceTree</key>
 			<string>DEVELOPER_DIR</string>
-		</dict>
-		<key>50A3C53536AB657C42FFB2BF43FE0B23</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFContentPage.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>51B34EFC4AB0895A9F930413755AC4EB</key>
 		<dict>
@@ -2804,19 +3052,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>520A2320D10277420FDD9CC82EFA29F6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolbarButton.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5267376A130B688AA8DC669933C16D9A</key>
 		<dict>
@@ -2855,7 +3090,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>52E9E7FC1FB1D5459C60F6EEEB39084F</key>
+		<key>52EE7C2B9C01EE7DABB8E660A5676B25</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -2864,7 +3099,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFDrawingToolbarButton.m</string>
+			<string>MNKPDFToolbarView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2888,36 +3123,23 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5425FFC6A12FE13724FA5F8A7EDE21D0</key>
+		<key>548B69AFEB18C6FBA97174A2BEA4A85C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2E2058E74E76D2A7ED7CDEDF80B83C6E</string>
+			<string>87C832D83B1CD7A07FE9AF26CA6D9C4A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>54A39C155BE65AC2BD518595F51A02C5</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>28C706D373A5C26D1D61AFA0B7F5D311</string>
-			</array>
-			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>55071CF475FAF0AD7159E1F0F1B57C3C</key>
+		<key>54A8D06389EF64F15778FB4B7CA512A4</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MNKPDFToolbarView.m</string>
+			<string>MNKPDFTiledLayer.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -2936,54 +3158,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>557A3AD3A9B5E321F90583D1CDDE040E</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>BD0076B225D4890E8B3582379B990087</string>
-				<string>DFA0BD5D2E7CC9A7A16D15808555E23F</string>
-				<string>5A9746F51941D80B7B40443FE8A3911C</string>
-				<string>64460A10E020ACB23CCD58D50F4B869F</string>
-				<string>B08D666B87F5DDC387D322E7D3927A0C</string>
-				<string>E9F3225ECB3208B0CC1FC78D62B9FFD6</string>
-				<string>E4AD1C94191783A3006569BE80983FC1</string>
-				<string>C039484CD10365E416AA3B4BC1895E9F</string>
-				<string>34E322BCB150DFC1003B2470C7931F11</string>
-				<string>CE0F09CE8024F4FB10F0332DBC5AFF4E</string>
-				<string>B6A8D361B13C8CA6D72B99E0F84AAA75</string>
-				<string>B744E89A02BD75134FED3D76C93A095A</string>
-				<string>1A9F87ED2CC825CCA3DDDF2ED14E990A</string>
-				<string>D881203CD202240D3953C458AC622C95</string>
-				<string>8117F320B73966C7F9EE08E2583C88A5</string>
-				<string>E680AB0C61EC25682CEBC76E6755BCCB</string>
-				<string>5425FFC6A12FE13724FA5F8A7EDE21D0</string>
-				<string>B17539FB1E839A8FC71F5D1F0F40E983</string>
-				<string>C1A02873AE0E60BE5EBA846428F1638B</string>
-				<string>8484593F1DD416DBEA0B022B512C9D29</string>
-				<string>C2AADB96A8024E606FA48BA655983AC1</string>
-				<string>5A305980AE813D4CDF3DD6D09589EF77</string>
-				<string>070E585E5C2F6DA7FE54E1F65E7F9339</string>
-				<string>3AEDC66C0A50C3C7F80F3155AC34AF5B</string>
-				<string>742DF2ACA73F71E02FAA68D437275051</string>
-				<string>E6C95D9F3B63186AC574A1D3FB7B48FC</string>
-				<string>AD7D013A2BD2C0C3D47B1D037F017DC7</string>
-				<string>F8D027C69BE8B2A1E6417CB34B4C7E6F</string>
-				<string>72AB16E09A83D427C43B49CE949F5417</string>
-				<string>685D77ED29A2005256CB3FF4344C84CC</string>
-				<string>9881608EF81F3591AAAAD74DB9335E6E</string>
-				<string>FD3EB46CDD4C3F1E8F9837469E11D243</string>
-				<string>BC1C54849AC4A8A7AA92C80AD5ED96EA</string>
-				<string>A8865AFE3EEF896D810CD7D8C13F751E</string>
-				<string>411096BEED974A72B5A3F53DA7A3C504</string>
-				<string>58FB1370D831A03930F8D8C24FA9AF08</string>
-			</array>
-			<key>isa</key>
-			<string>PBXResourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
 		<key>563FE44CF02C9E532F2AACF49F3F0122</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -2994,6 +3168,19 @@
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
 			<string>Pods-MNKPDFEditor_Tests-dummy.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>57709723FAC630C3FF2D05EB3DBE8914</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingTool.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3011,6 +3198,13 @@
 			<string>Expecta/EXPFloatTuple.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>57C24116B54362130CDC9FB6AFB88C06</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B17037E0C643FF1250D0580872E19B13</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>581C5F5012EB4722B076757D7F522B51</key>
 		<dict>
@@ -3102,26 +3296,18 @@
 			<key>name</key>
 			<string>Release</string>
 		</dict>
-		<key>58FB1370D831A03930F8D8C24FA9AF08</key>
+		<key>58D8F6EAC987A21ECC231997D839DED1</key>
 		<dict>
-			<key>fileRef</key>
-			<string>52C13BEB86078ED7256E982F80D781D9</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>5900D09BCE561999A82C0288ED752647</key>
-		<dict>
-			<key>fileRef</key>
-			<string>705EB17F96FA2563BEB3FEBCD9918A9F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolbarButton.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5920095A5D1FE6306FD12730E63B34B1</key>
 		<dict>
@@ -3144,13 +3330,6 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>5A305980AE813D4CDF3DD6D09589EF77</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D2F227F956968D857964F9C0C5EF4971</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>5A3DED2AC8EC782575EBFF45ED0E3901</key>
 		<dict>
 			<key>fileRef</key>
@@ -3158,10 +3337,10 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>5A9746F51941D80B7B40443FE8A3911C</key>
+		<key>5ADE5575E2EBE630E5D63EA5ED6C953F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>920D9D0BAB6D5F7B699BF7E645ADB6E1</string>
+			<string>88CB4F48E8BD04C936C7667C3EDEB101</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -3176,6 +3355,19 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-fno-objc-arc</string>
 			</dict>
+		</dict>
+		<key>5B42D6F34E4F480481CE2522F36BFE2B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolEraser.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>5B6208F0E30B3C97758B03EEC826C36F</key>
 		<dict>
@@ -3289,19 +3481,12 @@
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
 		</dict>
-		<key>5D24EDEC4A7C6D05B06452F07FA4D0B9</key>
+		<key>5D96F6766B7A0C249AD6BB4A75385F7C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>E110CAF842C79028790F2EF5B2BC71F6</string>
+			<string>6781D2E789C3D25CF17ED8424DBA9672</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>5DAC8C1BAEEE9C05A825449D85533D7A</key>
 		<dict>
@@ -3314,61 +3499,12 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>5DD952B97428F53833A85848B7A0EBB2</key>
+		<key>5E0404A8E653CD024A895E228A3AD896</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>6AA5F580C350AF7476039F7E52AA7938</string>
-				<string>089D5F27DF078B50A3EBAFE1BECB6F62</string>
-				<string>A03C9FD4EE8C9A8F15DD82128EEF67C5</string>
-				<string>2F185564676401ACC445BD1D02332FBE</string>
-				<string>469192BC19CB92BAD9BE185BEB1699B5</string>
-				<string>507AB10FD3730838F3F7B7003C634D3C</string>
-				<string>70297370E254E0F58C948F5E6E93D9B0</string>
-				<string>1622BA480665AD3A70CFEE6E01DED1C4</string>
-				<string>1C85828ECC804DCA4BC1DF93FFC860F8</string>
-				<string>1DB238E498C8E689F601E012E7D36DDE</string>
-				<string>B32FA44291DFBF699C6989D699B409EA</string>
-				<string>8C8F7DDC31804303170176CF11EFCD5E</string>
-				<string>E087B4FA40CBEA6002EE42672C190E79</string>
-				<string>BD19BD726D19C77AC164DD3A7A9D359C</string>
-				<string>F80DE73867F2B1B9E124932D570D2FFF</string>
-				<string>797BC9FE866D9705DCCF5D89EBE0A117</string>
-				<string>2F64CA23AA1F97A8FABF63DBDFC5D582</string>
-				<string>A85EFA2AF3120C2A33601213A97E1C33</string>
-				<string>65739386A2547664F951F099A5585254</string>
-				<string>296E4FC7A27E6F0FFC62ABEACCF20A63</string>
-				<string>9D77F3F1DA19C187665079EC5A5CE483</string>
-				<string>C3940BD7B1B492B9F3A8B31300872130</string>
-				<string>1BAE2AD35E18CA814DAC2BCF16F7A8E9</string>
-				<string>86D9AEA4BF03D23DB44EF059C0B52791</string>
-				<string>2B13D0BAD995FA23907B2699695CF5A3</string>
-				<string>F6F97F8B75BEDFE3275AB1DCC9D23DF4</string>
-				<string>F44F9F864DD84099CA991F16CB40B96D</string>
-				<string>21A6D5C64D1DFE2FD1A36E888FE1104B</string>
-				<string>C931AAAC1552B8AD3D67CA550337DB91</string>
-				<string>1BFD7DFAFDEB1B99B369A72FF135FD0A</string>
-				<string>99F7F5AF44E51A787AC7937BB1E9BD1D</string>
-			</array>
+			<key>fileRef</key>
+			<string>30728A31D02BE811765FF8FFFA29D448</string>
 			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>5E00A221C93511EE37715BAAD265B66B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDocument.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>5EA7043FE10E75D02F3C3052AF8B8318</key>
 		<dict>
@@ -3384,7 +3520,7 @@
 				</array>
 			</dict>
 		</dict>
-		<key>5F3BACB3E2FE84237B499C9970B398E3</key>
+		<key>5F7DC442E90BA5007A01E39FA86854EE</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3393,48 +3529,9 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFThumbOperation.m</string>
+			<string>MNKPDFThumbCell.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>5FBE11AEC84BC21B212D3F3B69C255B5</key>
-		<dict>
-			<key>buildConfigurationList</key>
-			<string>7C58B8A4C81158EBA98D02091303D77E</string>
-			<key>buildPhases</key>
-			<array>
-				<string>89E68F3855525CA52DB0516D8BF049E6</string>
-				<string>978BD7DC0E8B374DA2A5238E8CBE950D</string>
-				<string>557A3AD3A9B5E321F90583D1CDDE040E</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>MNKPDFEditor-MNKPDFEditor</string>
-			<key>productName</key>
-			<string>MNKPDFEditor-MNKPDFEditor</string>
-			<key>productReference</key>
-			<string>9E4A18C8B692F0295DBAAFC1EAB6E1C6</string>
-			<key>productType</key>
-			<string>com.apple.product-type.bundle</string>
-		</dict>
-		<key>60481E3F675FD276FAEE8E6E3096C7F3</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DB905B2B68B20134B73FFD4B49AE89F6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>61DC7B8FDAC76B1EAB04E576ECCED032</key>
 		<dict>
@@ -3454,13 +3551,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>64460A10E020ACB23CCD58D50F4B869F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DE093B541293EA2B785FA059FA7FC98B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>64E62B947C08376C71E07F669D636FF8</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3476,52 +3566,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6531EACD485E753B40E30936FFCB2240</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDocument.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6548B419AAE24B57BE7C44A8C3F0A407</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingTools.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>656942DEFB71C1FB2702D8BBBE637AD5</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFThumbView.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>65739386A2547664F951F099A5585254</key>
-		<dict>
-			<key>fileRef</key>
-			<string>ECE3C43B6AD0C269E3B49E08DC6FD1A2</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>65BC31095CCDFC80CBF6BBA843751F23</key>
 		<dict>
 			<key>fileRef</key>
@@ -3536,20 +3580,14 @@
 				</array>
 			</dict>
 		</dict>
-		<key>665B2CF570A50AD301F6D01217CA6998</key>
+		<key>6644257AFE69C3757B3FFC8B48E33606</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>9991C1A0612121FE523B29913A49275B</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFContentPage.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>6689068EA781DA9C11B946B938DE3379</key>
+		<key>668D26D79291E44302F8E1F098CF90E2</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -3558,7 +3596,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFPaletteViewController.m</string>
+			<string>MNKPDFDrawingView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -3574,6 +3612,20 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
+		<key>66D67D98689407CE9155635C62802D33</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9A6D37277294314D8C3D154FBF2BE8BE</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>671AA9503523C7A2F6DCF02AE77BC839</key>
 		<dict>
 			<key>fileRef</key>
@@ -3585,20 +3637,6 @@
 				<key>ATTRIBUTES</key>
 				<array>
 					<string>Private</string>
-				</array>
-			</dict>
-		</dict>
-		<key>6723399F21C4EF95544CAA5653182909</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6548B419AAE24B57BE7C44A8C3F0A407</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
 				</array>
 			</dict>
 		</dict>
@@ -3617,6 +3655,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>673478E89DC40B9F78A9DDE757430C3B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B9D63B23A4D9D0E251942976B01C0FF7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>67459AD239EF669A365519E06B45DCFE</key>
 		<dict>
 			<key>fileRef</key>
@@ -3631,18 +3676,25 @@
 				</array>
 			</dict>
 		</dict>
-		<key>681A01302A5E1A4BEFEA064E4CF2B309</key>
+		<key>6781D2E789C3D25CF17ED8424DBA9672</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFDrawingToolbar.h</string>
+			<string>MNKPDFPaletteViewController.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>67BBD0F7A1FECFE7A59FEF6C45CEEA88</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9D9AF2E08F30A1E89EE975435DC1BC78</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>6823C1D63AF04872501E6D14802C3F02</key>
 		<dict>
@@ -3656,13 +3708,6 @@
 			<string>SwiftSupport</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>685D77ED29A2005256CB3FF4344C84CC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>BCF6C05518C4B1E364313CC83FB3A22E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>6962FF3485B556050859C68CFD4A5440</key>
 		<dict>
@@ -3691,21 +3736,6 @@
 			<string>PBXHeadersBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
-		</dict>
-		<key>69A35640F436BD6F26E0511B0A9709DB</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>96D409256ABE680A2A7FB8D4D3E73147</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Pod</string>
-			<key>path</key>
-			<string>Pod</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>69BE855C76546F434D61EAC92F2988BD</key>
 		<dict>
@@ -3743,13 +3773,6 @@
 			<string>Expecta/Matchers/EXPMatchers+match.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6AA5F580C350AF7476039F7E52AA7938</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A42E1776C4B0C63F6F8642B5EF82FA8B</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>6B0ED2539FD84095ADF011B9A7502D8E</key>
 		<dict>
@@ -3807,6 +3830,13 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+		<key>6B63A1FFE956FDE1A75A15B4AC05F279</key>
+		<dict>
+			<key>fileRef</key>
+			<string>4A3AE5CEC80BA41E0B45AF53F9D9B1D4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>6B959D8DDAA2ED93C94CF628C922CD14</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -3820,50 +3850,17 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>6C48809206ED98680E7B8766F443BC70</key>
+		<key>6C024010D31C3F0C6DD2E58D5C3886AA</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>B16755FC2E2B46C42412AB1CDFFCF31F</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFPaletteViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>6DEB9D22A50F054F6C9D713F9BF60289</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFPageTrackControl.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>6E1D978790705E137FDE439AA68DD3AA</key>
 		<dict>
 			<key>fileRef</key>
 			<string>CD486E43B7465271EE4EBCB98E5DAF8D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>6E5D70E439317664CDFA5302693A0D74</key>
-		<dict>
-			<key>fileRef</key>
-			<string>03DEEAA9E21A0B539DE07DD5C9F9F98E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -3887,28 +3884,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>6F150B56A8877E3593DB241B93946D97</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FD1327A2E27D58475900467E5FC2DF90</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>PRODUCT_NAME</key>
-				<string>MNKPDFEditor</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>WRAPPER_EXTENSION</key>
-				<string>bundle</string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
 		</dict>
 		<key>6F171023695E78011482097406A42BC8</key>
 		<dict>
@@ -3935,19 +3910,6 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>6F2AD823AAB40CACD1E24B28CC205C09</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFThumbsViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>6F7BC4D6F6D779889CAC3B597A5AEC49</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -3961,88 +3923,12 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>6FE26A0E4AA54FC935BCD92C4ABB7811</key>
-		<dict>
-			<key>baseConfigurationReference</key>
-			<string>FD1327A2E27D58475900467E5FC2DF90</string>
-			<key>buildSettings</key>
-			<dict>
-				<key>CODE_SIGN_IDENTITY[sdk=iphoneos*]</key>
-				<string>iPhone Developer</string>
-				<key>CURRENT_PROJECT_VERSION</key>
-				<string>1</string>
-				<key>DEFINES_MODULE</key>
-				<string>YES</string>
-				<key>DYLIB_COMPATIBILITY_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_CURRENT_VERSION</key>
-				<string>1</string>
-				<key>DYLIB_INSTALL_NAME_BASE</key>
-				<string>@rpath</string>
-				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
-				<string>YES</string>
-				<key>GCC_PREFIX_HEADER</key>
-				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor-prefix.pch</string>
-				<key>INFOPLIST_FILE</key>
-				<string>Target Support Files/MNKPDFEditor/Info.plist</string>
-				<key>INSTALL_PATH</key>
-				<string>$(LOCAL_LIBRARY_DIR)/Frameworks</string>
-				<key>IPHONEOS_DEPLOYMENT_TARGET</key>
-				<string>7.1</string>
-				<key>LD_RUNPATH_SEARCH_PATHS</key>
-				<array>
-					<string>$(inherited)</string>
-					<string>@executable_path/Frameworks</string>
-					<string>@loader_path/Frameworks</string>
-				</array>
-				<key>MODULEMAP_FILE</key>
-				<string>Target Support Files/MNKPDFEditor/MNKPDFEditor.modulemap</string>
-				<key>MTL_ENABLE_DEBUG_INFO</key>
-				<string>NO</string>
-				<key>PRODUCT_NAME</key>
-				<string>MNKPDFEditor</string>
-				<key>SDKROOT</key>
-				<string>iphoneos</string>
-				<key>SKIP_INSTALL</key>
-				<string>YES</string>
-				<key>TARGETED_DEVICE_FAMILY</key>
-				<string>1,2</string>
-				<key>VERSIONING_SYSTEM</key>
-				<string>apple-generic</string>
-				<key>VERSION_INFO_PREFIX</key>
-				<string></string>
-			</dict>
-			<key>isa</key>
-			<string>XCBuildConfiguration</string>
-			<key>name</key>
-			<string>Release</string>
-		</dict>
-		<key>70297370E254E0F58C948F5E6E93D9B0</key>
-		<dict>
-			<key>fileRef</key>
-			<string>FAF391945815EC399B67879ADB2829E4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>702E3796FFFD35F4C5DF40BA0CCDB20B</key>
 		<dict>
 			<key>fileRef</key>
 			<string>5089DA448F1CB0FB085C4E12AFDD53A2</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>705EB17F96FA2563BEB3FEBCD9918A9F</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFThumbsViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>707C1B7180164DF6560719973AEC92C1</key>
 		<dict>
@@ -4089,6 +3975,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>71290616954F357C6D636B1B013424C3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>ADDA3311A5BE39D626F5BB757A24C27D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>71AF85B6558D634E3F383BA6AAEF3267</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4104,32 +4004,26 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>72AB16E09A83D427C43B49CE949F5417</key>
+		<key>7272839C22E3ACCA4425707F8715DADE</key>
 		<dict>
 			<key>fileRef</key>
-			<string>82F7C9173ACCE0C6E3212E12ABA644EC</string>
+			<string>A716DEFEA9DE74C916A2CD295871B926</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>7349072880C48BA4485251B1605BB93B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolLine.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>742DF2ACA73F71E02FAA68D437275051</key>
+		<key>74AC6F0F29F5A5E9632AF4EEC42EBCD2</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C82A7DD945294C48EAF4FC72372796A5</string>
+			<string>F04FBACA94609DAAB8AB2CFAEF8B2C07</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>757732CABCCD0D3A3DECF0188321177D</key>
 		<dict>
@@ -4156,19 +4050,6 @@
 			<string>EXPMatchers+beInstanceOf.m</string>
 			<key>path</key>
 			<string>Expecta/Matchers/EXPMatchers+beInstanceOf.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>758CA7A948F717E53624AB4C0252AC16</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFTiledLayer.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -4243,6 +4124,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>769CA30FF986917E022F6F9AAC6A8921</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFMainToolbar.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>76B826AE554AC07A93CBB74C69DF03D1</key>
 		<dict>
 			<key>children</key>
@@ -4293,6 +4187,24 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
+		<key>7753D14961A831A24BBA2963F25CB6BF</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D7B1C2292126B71729D3EA748F197CB7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7763EA4A11ED09C9821516FF1A2D228E</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
+		</dict>
 		<key>7874ECE957DC7F80946CB43F9419C903</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4320,13 +4232,6 @@
 			<string>Pods_MNKPDFEditor_Example.framework</string>
 			<key>sourceTree</key>
 			<string>BUILT_PRODUCTS_DIR</string>
-		</dict>
-		<key>7907AFAF077267077014B78A4D7A2222</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9E4A18C8B692F0295DBAAFC1EAB6E1C6</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>79484769BF08DC1D5243733A16B26307</key>
 		<dict>
@@ -4429,13 +4334,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>797BC9FE866D9705DCCF5D89EBE0A117</key>
-		<dict>
-			<key>fileRef</key>
-			<string>30728A31D02BE811765FF8FFFA29D448</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>79A18C1EB2EC337A87C21C89732639D4</key>
 		<dict>
@@ -4550,6 +4448,13 @@
 				</array>
 			</dict>
 		</dict>
+		<key>7BDAD276AEA96903FC411D615D13C196</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AE1862A9C10FDE5BE3198256A076800E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>7BE7EA43918F8547CCF8A9EABF75B788</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4565,19 +4470,18 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7C58B8A4C81158EBA98D02091303D77E</key>
+		<key>7CAE95357500015C2D9BD861019D8F4B</key>
 		<dict>
-			<key>buildConfigurations</key>
-			<array>
-				<string>20613FF0839BA674DDF4C631106BB91A</string>
-				<string>6F150B56A8877E3593DB241B93946D97</string>
-			</array>
-			<key>defaultConfigurationIsVisible</key>
-			<string>0</string>
-			<key>defaultConfigurationName</key>
-			<string>Release</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>XCConfigurationList</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFTiledLayer.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>7D657B34A1C94FBF176F35C1081FD8A9</key>
 		<dict>
@@ -4622,19 +4526,26 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>7E7BC4B07B376C24B8260EEE93378257</key>
+		<key>7E453AAA8838301DBC97CC0CE2BAC89B</key>
 		<dict>
 			<key>fileRef</key>
-			<string>1C89F4BCC1E0741012A9997F3C446B74</string>
+			<string>2068B835ED9B2C7FFA8A3D65EF043612</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+		</dict>
+		<key>7E76F0EC240C339F250223D510ABE715</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D2F227F956968D857964F9C0C5EF4971</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>7EC946084CD43B942FB68362ADBED6E7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>3404CE08314C9097D7DA74D07ED839AA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>7EF2072991CBA5987025178150BD49F6</key>
 		<dict>
@@ -4664,6 +4575,13 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>7F58CCDD633474D103A35ACE61E353D8</key>
+		<dict>
+			<key>fileRef</key>
+			<string>2E2058E74E76D2A7ED7CDEDF80B83C6E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>805E425BBEF7A6133E32E1D30A073010</key>
 		<dict>
 			<key>fileRef</key>
@@ -4676,6 +4594,20 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
+		<key>80609F4E2EB55D3859CF40FD86EC910B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>EABA0E23C43FCEA9E76D52EAF1B3FDCA</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>806A72EEA59F0472A2A4DC12E5E33B32</key>
 		<dict>
 			<key>containerPortal</key>
@@ -4685,9 +4617,30 @@
 			<key>proxyType</key>
 			<string>1</string>
 			<key>remoteGlobalIDString</key>
-			<string>93E2DCF2495D0EE1ACDEDC3361591DFB</string>
+			<string>BB962E6A33CB02D17CD63BA048E16A40</string>
 			<key>remoteInfo</key>
 			<string>MNKPDFEditor</string>
+		</dict>
+		<key>80863275734F3C82D8FE3D45BA49029B</key>
+		<dict>
+			<key>fileRef</key>
+			<string>26F733AF83177A2B2A88B18F899F3F87</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>80F2CB2A766015ADFB954229781E3EE2</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D6E02F12C721217BD525DDF55875792C</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>80F7A60BC2814175154CF43CE4D822DD</key>
 		<dict>
@@ -4695,26 +4648,6 @@
 			<string>B4E553ECAD689166E16E72CBB083D61A</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>8117F320B73966C7F9EE08E2583C88A5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B0C492459FB4FB2916EFC519B5A2FE7A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>815D05A0DDD4BA1D3D6DD54A4158F247</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolEraser.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>827940DAD186863374E719CC8D5FCE23</key>
 		<dict>
@@ -4841,26 +4774,6 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
-		<key>8470638F1CDC6A6A4AB2B328C4F5EDE1</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>8484593F1DD416DBEA0B022B512C9D29</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B16755FC2E2B46C42412AB1CDFFCF31F</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>85444E72D623B240AFCEA6EE08B266DD</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4886,6 +4799,13 @@
 			<string>Pods-MNKPDFEditor_Example-acknowledgements.markdown</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>85A35454884B17AA9B81AB8BDCA79A9F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>36718F61C954C8A9ED5184450F4540C7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>85E31076D5530AEEB45ACF16B2B8A983</key>
 		<dict>
@@ -4915,13 +4835,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>86D9AEA4BF03D23DB44EF059C0B52791</key>
-		<dict>
-			<key>fileRef</key>
-			<string>5F3BACB3E2FE84237B499C9970B398E3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>87C832D83B1CD7A07FE9AF26CA6D9C4A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -4945,7 +4858,14 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>881A72D490065FC597A354716EACC58D</key>
+		<key>883F4C47E171646D581E656991E6ABF7</key>
+		<dict>
+			<key>fileRef</key>
+			<string>CF9F8613557B60701561C52ADE1F365E</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>88CB4F48E8BD04C936C7667C3EDEB101</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -4954,31 +4874,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFThumbsMainToolbar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>89E68F3855525CA52DB0516D8BF049E6</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
-			<key>isa</key>
-			<string>PBXSourcesBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
-		<key>8A636E66D21EE34AA662B9A4B45DFEB3</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFEnumList.h</string>
+			<string>MNKPDFConstants.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5012,6 +4908,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>8BAEE0ECF8E0C23D419EC050C1982CA3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C168F680AE14B1E84A16A73D287F5534</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>8BB57663E37FE2DD3869C0E57192ED84</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5020,6 +4923,19 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Palette@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>8BD5B9E72BAEC2BC73432B5A738881F7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFThumbOperation.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5037,13 +4953,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>8C8F7DDC31804303170176CF11EFCD5E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C6D607BC3D8FE117CCD8BA7B3B6CDA87</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>8CE42337022021AE45B4E067D494C32F</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5059,6 +4968,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>8D44490CAC1F45404860A652A90C5E95</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E6B6BFE80190C08C18553CC90C0ABB56</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>8E2430030C37348492D8D45DE1B7988C</key>
 		<dict>
 			<key>containerPortal</key>
@@ -5072,19 +4995,18 @@
 			<key>remoteInfo</key>
 			<string>Expecta</string>
 		</dict>
-		<key>8E524192C9DCAF55DE16D61723CE2F5C</key>
+		<key>8E3B8A462584BA1D39E13C4F651D4E26</key>
 		<dict>
-			<key>fileRef</key>
-			<string>E4DD4BFFDFD8CF8765587A7FC693283A</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFThumbCell.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>8E7122C45809F0C3EF16FFA08FA31082</key>
 		<dict>
@@ -5130,6 +5052,54 @@
 			<string>Expecta/EXPExpect.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9047813A1D064BD97E0BB4422A1CEDDF</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>6644257AFE69C3757B3FFC8B48E33606</string>
+				<string>DE24A2D4C4CFD6365199B04F405A0A34</string>
+				<string>06B2390892F8836D8CAC1E04C620813B</string>
+				<string>96F1C2DAB1BC5A982A05F70C5C73ABD0</string>
+				<string>548B69AFEB18C6FBA97174A2BEA4A85C</string>
+				<string>04C429AE360651FC12415E2F2802E6C7</string>
+				<string>D94F5C4FE8610CFFC9D306D97D5F21CA</string>
+				<string>97FDEB4B546D92A3943DDBCFEB593C9C</string>
+				<string>A86BF9918AAA6B0FC355EFCDC5E4AAB3</string>
+				<string>8BAEE0ECF8E0C23D419EC050C1982CA3</string>
+				<string>1D6CC33F6C0C275C583F2D2AB7E3F69B</string>
+				<string>67BBD0F7A1FECFE7A59FEF6C45CEEA88</string>
+				<string>FACB7AABE68C753D65B9635602522585</string>
+				<string>7E453AAA8838301DBC97CC0CE2BAC89B</string>
+				<string>15FB8A2C1D2808BCDFA3B8088526A1BC</string>
+				<string>DEB5285A1FC4CFD3C68C719D9444A639</string>
+				<string>7F58CCDD633474D103A35ACE61E353D8</string>
+				<string>4F02672E66EB4D54C87568BD1FFCAE94</string>
+				<string>C3EE1BB2DF0E8B578D5EEECED22C762A</string>
+				<string>6C024010D31C3F0C6DD2E58D5C3886AA</string>
+				<string>E02C76478566001E494165DF38462575</string>
+				<string>7E76F0EC240C339F250223D510ABE715</string>
+				<string>DB9DD44D0A225E1114C087500323D707</string>
+				<string>03440049DC0D0BEF12841D718B0FFD2F</string>
+				<string>BAF8607012DBA3A62ED832E5478FB8FA</string>
+				<string>80F2CB2A766015ADFB954229781E3EE2</string>
+				<string>23E9221A4423937AEFCB0EDC3FBAC5FF</string>
+				<string>E64FC0CF29A3A57030DDA75D39D8D4C9</string>
+				<string>1DA22CCE23165A0FEB56E6A03B99E713</string>
+				<string>0AB5C21A73EC9A08131C6D9F5C3A99E6</string>
+				<string>FB20FF1C77156356AF193CA40CA225CC</string>
+				<string>D1575AA97734AAAEFB38DC4D6BDDE839</string>
+				<string>E3D7670FFC5A5B05775026B41328D968</string>
+				<string>673478E89DC40B9F78A9DDE757430C3B</string>
+				<string>CE6220DA7FCDE2336891E1228B72EDC5</string>
+				<string>3B0A1484A1EDA03988AFE42EDD693BBB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXResourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>91453F85BD953E023DC76351FFEA1D94</key>
 		<dict>
@@ -5247,33 +5217,62 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>93E2DCF2495D0EE1ACDEDC3361591DFB</key>
+		<key>937AE0CF9046541DC2DFB7984B30EDF7</key>
 		<dict>
-			<key>buildConfigurationList</key>
-			<string>1337D5C818B6B9B2842382AAE58EDAB2</string>
-			<key>buildPhases</key>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKReordableLayout.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>93C05B3515CB5B6BEE1FB2062ED05430</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>5DD952B97428F53833A85848B7A0EBB2</string>
-				<string>54A39C155BE65AC2BD518595F51A02C5</string>
-				<string>2494A3DC024B612C72510F5443881E01</string>
-				<string>DAE13DAFCBE186F0EE159F3502D9F93F</string>
-			</array>
-			<key>buildRules</key>
-			<array/>
-			<key>dependencies</key>
-			<array>
-				<string>BF050C0128A6171A7685935F32AEA3B3</string>
+				<string>F1B7C725BFF9082F63591C4C7750A8E4</string>
+				<string>5ADE5575E2EBE630E5D63EA5ED6C953F</string>
+				<string>3A53023FA48D7C4999B19397234E2DE9</string>
+				<string>7BDAD276AEA96903FC411D615D13C196</string>
+				<string>3022BC16305DDCD3D739FFC1519FE2CA</string>
+				<string>379744ED570B595F874B0F8844DFC5B3</string>
+				<string>7EC946084CD43B942FB68362ADBED6E7</string>
+				<string>85A35454884B17AA9B81AB8BDCA79A9F</string>
+				<string>0890EBED25C9F3C4DAB2A6A79A626115</string>
+				<string>A523449F73B286838BD8361B5A090DF6</string>
+				<string>31F1981551C0848D61FC74E644346D39</string>
+				<string>FF7BA614FD8CB034A03E506FA933FCC4</string>
+				<string>6B63A1FFE956FDE1A75A15B4AC05F279</string>
+				<string>883F4C47E171646D581E656991E6ABF7</string>
+				<string>3C974E11738C6E49923258B4C37115DA</string>
+				<string>5E0404A8E653CD024A895E228A3AD896</string>
+				<string>19D891E2E6AB418279C87CF18B1EC7CC</string>
+				<string>AA08A17AF26418DA5A6CB8944BD609BA</string>
+				<string>26F37FAE74635E79C6FEB1EC254307EB</string>
+				<string>7753D14961A831A24BBA2963F25CB6BF</string>
+				<string>B26FD235905A4AF5431BBADCB7B6142F</string>
+				<string>5D96F6766B7A0C249AD6BB4A75385F7C</string>
+				<string>24B1D8B0BCCC7858307F17507B73A548</string>
+				<string>C9F99BB01D6302D251AA5B9BAA8CF888</string>
+				<string>7272839C22E3ACCA4425707F8715DADE</string>
+				<string>EF5524F05F54B71C0BAC66E553400CE4</string>
+				<string>B63C404FC5AD5BC5FD11CF715C17F580</string>
+				<string>47EF9C823555CAA9515D2993C1956747</string>
+				<string>CCC93B6FD0B400A7324BD10777E0AD60</string>
+				<string>D4B51F12E48BC956AA0FC86FCED5C712</string>
+				<string>EA9884827D16E39134B9831771DC415C</string>
+				<string>57C24116B54362130CDC9FB6AFB88C06</string>
 			</array>
 			<key>isa</key>
-			<string>PBXNativeTarget</string>
-			<key>name</key>
-			<string>MNKPDFEditor</string>
-			<key>productName</key>
-			<string>MNKPDFEditor</string>
-			<key>productReference</key>
-			<string>10822617A9582C3F9A6F1B8E67E0751F</string>
-			<key>productType</key>
-			<string>com.apple.product-type.framework</string>
+			<string>PBXSourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>94C47C87E397972CE98F75929F3B706C</key>
 		<dict>
@@ -5336,6 +5335,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>9652A54AE493D97902D3EBB51C1DC3B1</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFContentViewController.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>966427BD32145AD621F074D1691342B8</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -5388,92 +5400,26 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>96D409256ABE680A2A7FB8D4D3E73147</key>
+		<key>96F1C2DAB1BC5A982A05F70C5C73ABD0</key>
 		<dict>
-			<key>children</key>
-			<array>
-				<string>3D86FB9A879DCCDA7E31D71BD3498F75</string>
-				<string>9BD56F560CB0CD1C7E786BB7E7EB4A04</string>
-				<string>665B2CF570A50AD301F6D01217CA6998</string>
-				<string>50A3C53536AB657C42FFB2BF43FE0B23</string>
-				<string>03DEEAA9E21A0B539DE07DD5C9F9F98E</string>
-				<string>E7EF3902009242B6DA471B33E42BD0D1</string>
-				<string>DB905B2B68B20134B73FFD4B49AE89F6</string>
-				<string>F120994942024891CA2BF9C7D58C7D8E</string>
-				<string>5E00A221C93511EE37715BAAD265B66B</string>
-				<string>6531EACD485E753B40E30936FFCB2240</string>
-				<string>1FD596783873F70C4B6601DC3FABF0EC</string>
-				<string>681A01302A5E1A4BEFEA064E4CF2B309</string>
-				<string>FAF391945815EC399B67879ADB2829E4</string>
-				<string>520A2320D10277420FDD9CC82EFA29F6</string>
-				<string>52E9E7FC1FB1D5459C60F6EEEB39084F</string>
-				<string>13183C70F48F4315ED6D50316227B379</string>
-				<string>FFDD1AF8D4B4F4FFF9FD1322F0A5868B</string>
-				<string>4406DA10AA2B8556E1C315839DDB2D7A</string>
-				<string>815D05A0DDD4BA1D3D6DD54A4158F247</string>
-				<string>47B9714DF94A1F1F3498770AE6C05B7D</string>
-				<string>7349072880C48BA4485251B1605BB93B</string>
-				<string>EB433D82B5B77B46451F1E55150DFBD2</string>
-				<string>C6D607BC3D8FE117CCD8BA7B3B6CDA87</string>
-				<string>A712E6AD617288EB2F6B8C004CCF0131</string>
-				<string>EA6A2BC35D6A882B3909E93B3A3398F0</string>
-				<string>6548B419AAE24B57BE7C44A8C3F0A407</string>
-				<string>9CCFC10FA6D498D2C2AB0C9FE3322ECC</string>
-				<string>427316F93288A47462C5C2D6054E1240</string>
-				<string>A993251B3AA5991BB79903088CAEBC70</string>
-				<string>EC5DAA6D97491E1B031217ED250A5A7E</string>
-				<string>8A636E66D21EE34AA662B9A4B45DFEB3</string>
-				<string>17B3BEC128037EDF20AC8E5A98CC459A</string>
-				<string>04E6B95E4C572A0A7E8E43EFD8E62894</string>
-				<string>DE676A62FC096DFBB2439182A550124B</string>
-				<string>EF63B6C91D9D10DE76F0C3B25BE88A6E</string>
-				<string>E410751757103423D8563AC2786FEF17</string>
-				<string>ECE3C43B6AD0C269E3B49E08DC6FD1A2</string>
-				<string>E4DD4BFFDFD8CF8765587A7FC693283A</string>
-				<string>3F89465B72C23B57CBE5D370DD3A78F7</string>
-				<string>9A87360C3AB1D812CCEB115A930F408A</string>
-				<string>6DEB9D22A50F054F6C9D713F9BF60289</string>
-				<string>6C48809206ED98680E7B8766F443BC70</string>
-				<string>6689068EA781DA9C11B946B938DE3379</string>
-				<string>1C89F4BCC1E0741012A9997F3C446B74</string>
-				<string>B89D8FCFA5528FA3334AE378A7C5F22B</string>
-				<string>E110CAF842C79028790F2EF5B2BC71F6</string>
-				<string>5F3BACB3E2FE84237B499C9970B398E3</string>
-				<string>CDF0618DB5BC3C5F3807D9990D7DF1D0</string>
-				<string>881A72D490065FC597A354716EACC58D</string>
-				<string>705EB17F96FA2563BEB3FEBCD9918A9F</string>
-				<string>6F2AD823AAB40CACD1E24B28CC205C09</string>
-				<string>2196EB27A0BD37E7024DB90AA3BF01FA</string>
-				<string>656942DEFB71C1FB2702D8BBBE637AD5</string>
-				<string>063B3D444A588A9FCE275194FEEE37E3</string>
-				<string>758CA7A948F717E53624AB4C0252AC16</string>
-				<string>DF7501ED88653585D066CB2A05E0D439</string>
-				<string>55071CF475FAF0AD7159E1F0F1B57C3C</string>
-				<string>8470638F1CDC6A6A4AB2B328C4F5EDE1</string>
-				<string>FEE550CF1C9B49911CF05AAC9F6150EF</string>
-				<string>BAB157688DB3F9A0B888B38E4AFB6D72</string>
-				<string>48EDFEEBE0F9D4FC87F399FF297A59F3</string>
-				<string>BCB76BB998DFF1D12DD25FE3D9FEAC85</string>
-			</array>
+			<key>fileRef</key>
+			<string>DE093B541293EA2B785FA059FA7FC98B</string>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>Classes</string>
-			<key>path</key>
-			<string>Classes</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
-		<key>978BD7DC0E8B374DA2A5238E8CBE950D</key>
+		<key>974B301FAB877FDDFAE6CC24DB512D8F</key>
 		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array/>
+			<key>fileRef</key>
+			<string>9D61B1D155893F0FB593C5DF71CD0A8F</string>
 			<key>isa</key>
-			<string>PBXFrameworksBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>979A46F25D9FAAF442E8F9E6AF55F135</key>
 		<dict>
@@ -5490,24 +5436,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>97A441810CD719D8CD58C79F39E6BD3A</key>
+		<key>97FDEB4B546D92A3943DDBCFEB593C9C</key>
 		<dict>
 			<key>fileRef</key>
-			<string>BAB157688DB3F9A0B888B38E4AFB6D72</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9881608EF81F3591AAAAD74DB9335E6E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9E9DB9E0E0D43BFBF0F073786AF734D4</string>
+			<string>EEE8A5F103C94E7D7FC5B8BDB97EDFF4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -5567,6 +5499,33 @@
 			<key>name</key>
 			<string>Debug</string>
 		</dict>
+		<key>98EBD539BB00F6A8E3534E0B95CCF5B2</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFPageTrackControl.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9975B4A40CF67F8876D1AC625C900043</key>
+		<dict>
+			<key>fileRef</key>
+			<string>00BA2266D629B6A465D47C853732FD8D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>9991C1A0612121FE523B29913A49275B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -5593,14 +5552,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>99F7F5AF44E51A787AC7937BB1E9BD1D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>48EDFEEBE0F9D4FC87F399FF297A59F3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>9A87360C3AB1D812CCEB115A930F408A</key>
+		<key>99E2ED4E50F63BEF8E29D3B001718348</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -5609,7 +5561,42 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MNKPDFPageTrackControl.h</string>
+			<string>MNKPDFThumbOperation.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9A07877590032EF9E034B0519A65EA3A</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>FD1327A2E27D58475900467E5FC2DF90</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>PRODUCT_NAME</key>
+				<string>MNKPDFEditor</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Release</string>
+		</dict>
+		<key>9A6D37277294314D8C3D154FBF2BE8BE</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFContentViewController.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5669,20 +5656,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>9B70E7B9633736623038E5B92307F59F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>47B9714DF94A1F1F3498770AE6C05B7D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>9BB9159FBA757600D3D4C0FF645F3911</key>
 		<dict>
 			<key>fileRef</key>
@@ -5694,46 +5667,6 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-fno-objc-arc</string>
 			</dict>
-		</dict>
-		<key>9BBCAAD983A42E7F1BEE5CDB15803062</key>
-		<dict>
-			<key>fileRef</key>
-			<string>CDF0618DB5BC3C5F3807D9990D7DF1D0</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>9BD56F560CB0CD1C7E786BB7E7EB4A04</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFConstants.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>9CCFC10FA6D498D2C2AB0C9FE3322ECC</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolSettings.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>9D21C236068062A9C4DDD612C5A3467B</key>
 		<dict>
@@ -5750,12 +5683,18 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9D77F3F1DA19C187665079EC5A5CE483</key>
+		<key>9D61B1D155893F0FB593C5DF71CD0A8F</key>
 		<dict>
-			<key>fileRef</key>
-			<string>6DEB9D22A50F054F6C9D713F9BF60289</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolSettings.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>9D8FEB4FF689005C827E312C50CDCFDF</key>
 		<dict>
@@ -5772,6 +5711,19 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Eraser@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>9D9E20C6EAC33F3F22A3FE597D0C2232</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFThumbView.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -5827,20 +5779,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>9EE33ACFE28FF27A9127688451E50AAA</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4406DA10AA2B8556E1C315839DDB2D7A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>9F9B69BDD1D864A65430A3164E26B805</key>
 		<dict>
 			<key>buildActionMask</key>
@@ -5853,13 +5791,6 @@
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
-		</dict>
-		<key>A03C9FD4EE8C9A8F15DD82128EEF67C5</key>
-		<dict>
-			<key>fileRef</key>
-			<string>50A3C53536AB657C42FFB2BF43FE0B23</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>A090E1335802D26E75D008CC54E3EBE7</key>
 		<dict>
@@ -5925,6 +5856,31 @@
 				</array>
 			</dict>
 		</dict>
+		<key>A1EBAFCA7533A6C80D27E2A7187A810D</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>EFD068AC1CF00A714FB7D255E8DF09E8</string>
+			<key>buildPhases</key>
+			<array>
+				<string>7763EA4A11ED09C9821516FF1A2D228E</string>
+				<string>C21096A422DCFC9CCB13A085AD5C82EE</string>
+				<string>9047813A1D064BD97E0BB4422A1CEDDF</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>MNKPDFEditor-MNKPDFEditor</string>
+			<key>productName</key>
+			<string>MNKPDFEditor-MNKPDFEditor</string>
+			<key>productReference</key>
+			<string>9E4A18C8B692F0295DBAAFC1EAB6E1C6</string>
+			<key>productType</key>
+			<string>com.apple.product-type.bundle</string>
+		</dict>
 		<key>A28B7BE98B87EA7500818B1472BB7AA3</key>
 		<dict>
 			<key>isa</key>
@@ -5936,16 +5892,12 @@
 			<key>targetProxy</key>
 			<string>E0554EF2942F72AD762F1056DCF6FB23</string>
 		</dict>
-		<key>A42E1776C4B0C63F6F8642B5EF82FA8B</key>
+		<key>A2B210642103F80440FC1ADA66927693</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>9E4A18C8B692F0295DBAAFC1EAB6E1C6</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>path</key>
-			<string>contents</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>A45623F5FFFE8CF2B5BF03F7A6DF5754</key>
 		<dict>
@@ -5959,6 +5911,13 @@
 			<string>Info.plist</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A523449F73B286838BD8361B5A090DF6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>0FD4AA167EEBF6626F846AB2CD6C6B72</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>A54AE821E3D5E7DF7DA3ED83AF9B4AF2</key>
 		<dict>
@@ -5975,16 +5934,38 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A712E6AD617288EB2F6B8C004CCF0131</key>
+		<key>A596B40AD57D212A8155E53B1DE8562A</key>
+		<dict>
+			<key>baseConfigurationReference</key>
+			<string>FD1327A2E27D58475900467E5FC2DF90</string>
+			<key>buildSettings</key>
+			<dict>
+				<key>ENABLE_STRICT_OBJC_MSGSEND</key>
+				<string>YES</string>
+				<key>PRODUCT_NAME</key>
+				<string>MNKPDFEditor</string>
+				<key>SDKROOT</key>
+				<string>iphoneos</string>
+				<key>SKIP_INSTALL</key>
+				<string>YES</string>
+				<key>WRAPPER_EXTENSION</key>
+				<string>bundle</string>
+			</dict>
+			<key>isa</key>
+			<string>XCBuildConfiguration</string>
+			<key>name</key>
+			<string>Debug</string>
+		</dict>
+		<key>A716DEFEA9DE74C916A2CD295871B926</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
+			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFDrawingToolRectangle.h</string>
+			<string>MNKPDFThumbsMainToolbar.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6065,21 +6046,7 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>A85EFA2AF3120C2A33601213A97E1C33</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EF63B6C91D9D10DE76F0C3B25BE88A6E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A8865AFE3EEF896D810CD7D8C13F751E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B9D63B23A4D9D0E251942976B01C0FF7</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>A993251B3AA5991BB79903088CAEBC70</key>
+		<key>A847ED76BDA8C292A114C6CB8A161CE1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -6088,9 +6055,16 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MNKPDFDrawingView.h</string>
+			<string>MNKPDFViewController.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>A86BF9918AAA6B0FC355EFCDC5E4AAB3</key>
+		<dict>
+			<key>fileRef</key>
+			<string>620449B29545A5D910F4C7E4F2145B27</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>A9A4579B877C302F516E9CEE77766372</key>
 		<dict>
@@ -6120,6 +6094,27 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>A9D7F5A451D8EB7EEE3272D4479A5DFD</key>
+		<dict>
+			<key>fileRef</key>
+			<string>11F4BC1008EBCA6CC11E268174936883</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>AA08A17AF26418DA5A6CB8944BD609BA</key>
+		<dict>
+			<key>fileRef</key>
+			<string>769CA30FF986917E022F6F9AAC6A8921</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>AAF685AA9425478A8AF1452C215F4483</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6146,13 +6141,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>AD7D013A2BD2C0C3D47B1D037F017DC7</key>
-		<dict>
-			<key>fileRef</key>
-			<string>4DE96C115F62EE02F86F175395830B56</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>ADDA3311A5BE39D626F5BB757A24C27D</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6163,6 +6151,30 @@
 			<string>sourcecode.c.h</string>
 			<key>path</key>
 			<string>MNKPDFEditor-umbrella.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>ADE35CAFB7D948B69488CAB04FCBACC5</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>path</key>
+			<string>contents</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>AE1862A9C10FDE5BE3198256A076800E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFContentView.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6223,6 +6235,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>AF1849438761C44CEE60EFD75658056B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFMainToolbar.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>AF1F46668D4591602887998C6E9C10AD</key>
 		<dict>
 			<key>fileRef</key>
@@ -6237,20 +6262,18 @@
 				</array>
 			</dict>
 		</dict>
-		<key>AF3A1B83E3A972244E839DFB24EC32DA</key>
+		<key>AFDF784874CE8ADA3E5292E09541F35F</key>
 		<dict>
-			<key>children</key>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
 			<array>
-				<string>A42E1776C4B0C63F6F8642B5EF82FA8B</string>
+				<string>A2B210642103F80440FC1ADA66927693</string>
 			</array>
 			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MNKPDFMetadata.xcdatamodel</string>
-			<key>path</key>
-			<string>MNKPDFMetadata.xcdatamodel</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXResourcesBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>AFEB3FDDB7BA1A944F55F7DF29EC40B7</key>
 		<dict>
@@ -6291,12 +6314,19 @@
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
-		<key>B08D666B87F5DDC387D322E7D3927A0C</key>
+		<key>B0A11C12FE92DEB61C30F36F100A7A98</key>
 		<dict>
 			<key>fileRef</key>
-			<string>87C832D83B1CD7A07FE9AF26CA6D9C4A</string>
+			<string>17D41387C06510016DFB342003BDB3E3</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>B0C492459FB4FB2916EFC519B5A2FE7A</key>
 		<dict>
@@ -6327,12 +6357,18 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>B17539FB1E839A8FC71F5D1F0F40E983</key>
+		<key>B17037E0C643FF1250D0580872E19B13</key>
 		<dict>
-			<key>fileRef</key>
-			<string>4596B0EC5DEB94F7C21262C7B5F5839A</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>UIImage_MNKPDFEditorBundle.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>B19B91742CC0B3A19C8EAAF74B7B143C</key>
 		<dict>
@@ -6355,6 +6391,32 @@
 			<string>Pods-MNKPDFEditor_Example</string>
 			<key>path</key>
 			<string>Target Support Files/Pods-MNKPDFEditor_Example</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B1E8403D7E1CE91F50BC24035A871002</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFContentPage.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B220988DF4EC6CCCC42D207F4595EBD8</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFThumbsViewController.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6405,12 +6467,26 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>B32FA44291DFBF699C6989D699B409EA</key>
+		<key>B26FD235905A4AF5431BBADCB7B6142F</key>
 		<dict>
 			<key>fileRef</key>
-			<string>7349072880C48BA4485251B1605BB93B</string>
+			<string>389748B0F2B0D3E01F1FF84349F4F72B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>B2C2551BE393ACF44FCF36C6236224AC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>58D8F6EAC987A21ECC231997D839DED1</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>B34472CAE1E8EC26152CEFB1E82BE050</key>
 		<dict>
@@ -6484,6 +6560,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>B63C404FC5AD5BC5FD11CF715C17F580</key>
+		<dict>
+			<key>fileRef</key>
+			<string>229E06B5F8E4462728B086B97183F523</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>B647A866CAF55406F516ECE6F8AE7F8B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6498,20 +6581,6 @@
 			<string>Expecta/EXPMatcher.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>B6A8D361B13C8CA6D72B99E0F84AAA75</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0A7FCFB1F8E34994C663D625D9095195</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>B744E89A02BD75134FED3D76C93A095A</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9D9AF2E08F30A1E89EE975435DC1BC78</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>B74B5724CE5A6D41E0B3BD4F326D7642</key>
 		<dict>
@@ -6539,16 +6608,16 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>B89D8FCFA5528FA3334AE378A7C5F22B</key>
+		<key>B8A21AD16DF620F9E057C23A15348330</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MNKPDFThumbCell.m</string>
+			<string>MNKPDFContentPage.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6575,6 +6644,19 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Square-Filled@2x.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>B978083E1FB3A1CCFE73190B48B7C782</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFModelViewController.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6633,18 +6715,12 @@
 			<key>xcLanguageSpecificationIdentifier</key>
 			<string>xcode.lang.ruby</string>
 		</dict>
-		<key>BAB157688DB3F9A0B888B38E4AFB6D72</key>
+		<key>BAF8607012DBA3A62ED832E5478FB8FA</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>C82A7DD945294C48EAF4FC72372796A5</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKReordableLayout.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>BB4DC57B05E96C2EB152A59EFCDB6F12</key>
 		<dict>
@@ -6661,6 +6737,34 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>BB962E6A33CB02D17CD63BA048E16A40</key>
+		<dict>
+			<key>buildConfigurationList</key>
+			<string>06E57D7207270AE637AAC283A34C0A73</string>
+			<key>buildPhases</key>
+			<array>
+				<string>93C05B3515CB5B6BEE1FB2062ED05430</string>
+				<string>32A2877C3F588A63CC4A84733E35D54D</string>
+				<string>AFDF784874CE8ADA3E5292E09541F35F</string>
+				<string>DB2851DB9E310551EE42755A20C34E36</string>
+			</array>
+			<key>buildRules</key>
+			<array/>
+			<key>dependencies</key>
+			<array>
+				<string>D46563B2E3E238D420287B942427EF73</string>
+			</array>
+			<key>isa</key>
+			<string>PBXNativeTarget</string>
+			<key>name</key>
+			<string>MNKPDFEditor</string>
+			<key>productName</key>
+			<string>MNKPDFEditor</string>
+			<key>productReference</key>
+			<string>10822617A9582C3F9A6F1B8E67E0751F</string>
+			<key>productType</key>
+			<string>com.apple.product-type.framework</string>
+		</dict>
 		<key>BBE59BCD5ADEB5D55801918FED22F022</key>
 		<dict>
 			<key>buildConfigurations</key>
@@ -6675,12 +6779,19 @@
 			<key>isa</key>
 			<string>XCConfigurationList</string>
 		</dict>
-		<key>BC1C54849AC4A8A7AA92C80AD5ED96EA</key>
+		<key>BBEA53A6782107D581B158B59D1BAA1A</key>
 		<dict>
 			<key>fileRef</key>
-			<string>C1D66BF94C68E6D4114DB96D97E4FF22</string>
+			<string>54A8D06389EF64F15778FB4B7CA512A4</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>BC55C8365AEFF8217F6A567607754854</key>
 		<dict>
@@ -6693,21 +6804,6 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-fno-objc-arc</string>
 			</dict>
-		</dict>
-		<key>BCB76BB998DFF1D12DD25FE3D9FEAC85</key>
-		<dict>
-			<key>children</key>
-			<array>
-				<string>AF3A1B83E3A972244E839DFB24EC32DA</string>
-			</array>
-			<key>isa</key>
-			<string>PBXGroup</string>
-			<key>name</key>
-			<string>MNKPDFMetadata.xcdatamodeld</string>
-			<key>path</key>
-			<string>MNKPDFMetadata.xcdatamodeld</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>BCD9E5A790E7356F6C5117C6D74B681B</key>
 		<dict>
@@ -6727,19 +6823,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>BD0076B225D4890E8B3582379B990087</key>
+		<key>BDA6393A2B29A5CB1E8C2B826F0D25A5</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9991C1A0612121FE523B29913A49275B</string>
+			<string>3BC2C0AFF151C84F7271BA1E9065541E</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>BD19BD726D19C77AC164DD3A7A9D359C</key>
-		<dict>
-			<key>fileRef</key>
-			<string>427316F93288A47462C5C2D6054E1240</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>BDAD32F4EC04998B8F50D0A8A45BF832</key>
 		<dict>
@@ -6792,17 +6888,6 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>BF050C0128A6171A7685935F32AEA3B3</key>
-		<dict>
-			<key>isa</key>
-			<string>PBXTargetDependency</string>
-			<key>name</key>
-			<string>MNKPDFEditor-MNKPDFEditor</string>
-			<key>target</key>
-			<string>5FBE11AEC84BC21B212D3F3B69C255B5</string>
-			<key>targetProxy</key>
-			<string>13854EBF8312ED8F880F80E1D9683C0F</string>
-		</dict>
 		<key>BF701C1C8F03B74819BFFD19C9DEA426</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6818,13 +6903,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C039484CD10365E416AA3B4BC1895E9F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EEE8A5F103C94E7D7FC5B8BDB97EDFF4</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>C04E3E80E2CD18DEAE104F67CE80B85A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6837,6 +6915,19 @@
 			<string>EXPMatchers+beKindOf.m</string>
 			<key>path</key>
 			<string>Expecta/Matchers/EXPMatchers+beKindOf.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C08571B8C5572E69DAAB225218A1BFE0</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFThumbsMainToolbar.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6855,20 +6946,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C10A863B71DDD918D01302F60D3E0305</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9A87360C3AB1D812CCEB115A930F408A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>C168F680AE14B1E84A16A73D287F5534</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6880,13 +6957,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C1A02873AE0E60BE5EBA846428F1638B</key>
-		<dict>
-			<key>fileRef</key>
-			<string>AAF685AA9425478A8AF1452C215F4483</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>C1D66BF94C68E6D4114DB96D97E4FF22</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -6895,6 +6965,21 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Undo-Highlighted.png</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C1DB05B8DA8A1B82A35FA3535C2B7B37</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>DDF19E1762F6542B3E3EFCF8238F9BFB</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>MNKPDFMetadata.xcdatamodeld</string>
+			<key>path</key>
+			<string>MNKPDFMetadata.xcdatamodeld</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -6912,6 +6997,17 @@
 			<string>FBSnapshotTestCase/Categories/UIImage+Compare.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C21096A422DCFC9CCB13A085AD5C82EE</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array/>
+			<key>isa</key>
+			<string>PBXFrameworksBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>C22221B3B6D1F46AB81218794BF7243C</key>
 		<dict>
@@ -7047,13 +7143,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C2AADB96A8024E606FA48BA655983AC1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C3686CABE4B185FE084ACDAA06F5BC9A</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>C3686CABE4B185FE084ACDAA06F5BC9A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7065,12 +7154,18 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C3940BD7B1B492B9F3A8B31300872130</key>
+		<key>C391343AFCFC15EC0A18A5989D63C45A</key>
 		<dict>
-			<key>fileRef</key>
-			<string>6689068EA781DA9C11B946B938DE3379</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFPaletteViewController.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>C3A1357DBB4749B84C4BA0F8AAFB5F2B</key>
 		<dict>
@@ -7087,6 +7182,13 @@
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
+		</dict>
+		<key>C3EE1BB2DF0E8B578D5EEECED22C762A</key>
+		<dict>
+			<key>fileRef</key>
+			<string>AAF685AA9425478A8AF1452C215F4483</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>C4016D8E6902B23AF2CA1BB3EBE78467</key>
 		<dict>
@@ -7133,34 +7235,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C46E4C4EF52F2DD371FB83A1B6AA6D11</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A712E6AD617288EB2F6B8C004CCF0131</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>C5119EAF988E4EA6FAE3E1715EAAF6FD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>8470638F1CDC6A6A4AB2B328C4F5EDE1</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>C6C7CD39279BCFD392135DCF45F61F03</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7173,19 +7247,6 @@
 			<string>EXPMatchers+beSupersetOf.m</string>
 			<key>path</key>
 			<string>Expecta/Matchers/EXPMatchers+beSupersetOf.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>C6D607BC3D8FE117CCD8BA7B3B6CDA87</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolPen.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -7213,6 +7274,20 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>C80664D9B6D180A1DE0CBE1FC5E5227F</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DA57F9DF5291622420415C8946F4C32B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
 		<key>C82A7DD945294C48EAF4FC72372796A5</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7239,13 +7314,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>C931AAAC1552B8AD3D67CA550337DB91</key>
-		<dict>
-			<key>fileRef</key>
-			<string>55071CF475FAF0AD7159E1F0F1B57C3C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>C9787AAC93E19615A661E2994F1F4565</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7258,6 +7326,34 @@
 			<string>Pods-MNKPDFEditor_Example-resources.sh</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>C9F99BB01D6302D251AA5B9BAA8CF888</key>
+		<dict>
+			<key>fileRef</key>
+			<string>8BD5B9E72BAEC2BC73432B5A738881F7</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>CC79D5EDB6EBF0279F99DC8F6AE80BF6</key>
+		<dict>
+			<key>fileRef</key>
+			<string>99E2ED4E50F63BEF8E29D3B001718348</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CCC93B6FD0B400A7324BD10777E0AD60</key>
+		<dict>
+			<key>fileRef</key>
+			<string>52EE7C2B9C01EE7DABB8E660A5676B25</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>CD486E43B7465271EE4EBCB98E5DAF8D</key>
 		<dict>
@@ -7289,26 +7385,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>CDF0618DB5BC3C5F3807D9990D7DF1D0</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFThumbsMainToolbar.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>CE0F09CE8024F4FB10F0332DBC5AFF4E</key>
-		<dict>
-			<key>fileRef</key>
-			<string>C168F680AE14B1E84A16A73D287F5534</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>CE3F4ECBB0BC095577D66AE50C8E604C</key>
 		<dict>
 			<key>fileRef</key>
@@ -7320,6 +7396,13 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-fno-objc-arc</string>
 			</dict>
+		</dict>
+		<key>CE6220DA7FCDE2336891E1228B72EDC5</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D0E0DC585DCB04672EAF0FBB78D5472B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>CEEF77F2E0AC35FBA5816783D5C2FF3E</key>
 		<dict>
@@ -7371,6 +7454,45 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>CF889E7C67D70408DA8C43761F557EBF</key>
+		<dict>
+			<key>containerPortal</key>
+			<string>D41D8CD98F00B204E9800998ECF8427E</string>
+			<key>isa</key>
+			<string>PBXContainerItemProxy</string>
+			<key>proxyType</key>
+			<string>1</string>
+			<key>remoteGlobalIDString</key>
+			<string>A1EBAFCA7533A6C80D27E2A7187A810D</string>
+			<key>remoteInfo</key>
+			<string>MNKPDFEditor-MNKPDFEditor</string>
+		</dict>
+		<key>CF9F8613557B60701561C52ADE1F365E</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolSettings.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D04A1786FE03CE89A4DA232724370AAC</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKReordableLayout.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>D0E0DC585DCB04672EAF0FBB78D5472B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7396,6 +7518,13 @@
 			<string>Expecta/Expecta.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D1575AA97734AAAEFB38DC4D6BDDE839</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E01A55B98F78C04E6B0310CF11A87896</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>D182CF13D4DB728DAAD9786E7E8143B2</key>
 		<dict>
@@ -7426,6 +7555,20 @@
 			<string>FBSnapshotTestCase/Categories/UIImage+Diff.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>D22140716E8A6754253E65D5504AFA0C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>5B42D6F34E4F480481CE2522F36BFE2B</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>D23BC3A3A95CE0E0D9D4237760C716E8</key>
 		<dict>
@@ -7483,6 +7626,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D3808E3F019947385B241D515B79543A</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDocument.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>D41D8CD98F00B204E9800998ECF8427E</key>
 		<dict>
 			<key>attributes</key>
@@ -7521,8 +7677,8 @@
 				<string>0D888F29E05E498D0CD91A51D28599A5</string>
 				<string>ED4342E27597144E22BA4081D52F6DD1</string>
 				<string>DD86ABD743B0605672C710ADC56EB9DA</string>
-				<string>93E2DCF2495D0EE1ACDEDC3361591DFB</string>
-				<string>5FBE11AEC84BC21B212D3F3B69C255B5</string>
+				<string>BB962E6A33CB02D17CD63BA048E16A40</string>
+				<string>A1EBAFCA7533A6C80D27E2A7187A810D</string>
 				<string>3584391EA7465718E53CE02D55D406B2</string>
 				<string>4CB7B33C9B6A0CD3A339EFA50A892C62</string>
 				<string>92C77DB9BAC27E617AB40602103BD27C</string>
@@ -7573,6 +7729,24 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D46563B2E3E238D420287B942427EF73</key>
+		<dict>
+			<key>isa</key>
+			<string>PBXTargetDependency</string>
+			<key>name</key>
+			<string>MNKPDFEditor-MNKPDFEditor</string>
+			<key>target</key>
+			<string>A1EBAFCA7533A6C80D27E2A7187A810D</string>
+			<key>targetProxy</key>
+			<string>CF889E7C67D70408DA8C43761F557EBF</string>
+		</dict>
+		<key>D4B51F12E48BC956AA0FC86FCED5C712</key>
+		<dict>
+			<key>fileRef</key>
+			<string>205C6782DFD37EACC24BE3291192B3BF</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>D4EF39D56E8A55D649F9810E362FA318</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7613,26 +7787,25 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>D7B1C2292126B71729D3EA748F197CB7</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.objc</string>
+			<key>path</key>
+			<string>MNKPDFPageNumberLabel.m</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>D7F64744555CA8BE0EBC6BC7B03C4DF4</key>
 		<dict>
 			<key>fileRef</key>
 			<string>7874ECE957DC7F80946CB43F9419C903</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-		</dict>
-		<key>D8314BDA142CCAAF79216870E7C0E8AD</key>
-		<dict>
-			<key>fileRef</key>
-			<string>665B2CF570A50AD301F6D01217CA6998</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>D83677C54D2226C67886A525B0B46FBE</key>
 		<dict>
@@ -7646,10 +7819,10 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>D881203CD202240D3953C458AC622C95</key>
+		<key>D94F5C4FE8610CFFC9D306D97D5F21CA</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2068B835ED9B2C7FFA8A3D65EF043612</string>
+			<string>0D3BD18C42BF9AA27B361FCDB138D150</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 		</dict>
@@ -7659,6 +7832,19 @@
 			<string>3CF01F310BCD4F2E114A0BB3796FAA47</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+		</dict>
+		<key>DA57F9DF5291622420415C8946F4C32B</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFConstants.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>DA92D40418A67DD9920D98DC32E6BDE1</key>
 		<dict>
@@ -7690,51 +7876,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DAE13DAFCBE186F0EE159F3502D9F93F</key>
-		<dict>
-			<key>buildActionMask</key>
-			<string>2147483647</string>
-			<key>files</key>
-			<array>
-				<string>EABB705F35D1470812F15DF09CF069F9</string>
-				<string>D8314BDA142CCAAF79216870E7C0E8AD</string>
-				<string>6E5D70E439317664CDFA5302693A0D74</string>
-				<string>60481E3F675FD276FAEE8E6E3096C7F3</string>
-				<string>F2B2F99434B942A453D012DAD7B697FA</string>
-				<string>50637EFA1E5358FADA44EE569464CD69</string>
-				<string>076D1FFDF2FEA3D0E09FB9FED6A9D86E</string>
-				<string>38EA4DBD3B6BF74E958AAE2CBFD375FB</string>
-				<string>F9E5F01BB8F388387F83BA41F3FA8103</string>
-				<string>9EE33ACFE28FF27A9127688451E50AAA</string>
-				<string>9B70E7B9633736623038E5B92307F59F</string>
-				<string>4408D81FBBF6C907E82D000592FCB929</string>
-				<string>C46E4C4EF52F2DD371FB83A1B6AA6D11</string>
-				<string>6723399F21C4EF95544CAA5653182909</string>
-				<string>E947794728AEE9C06406624E1137A9CC</string>
-				<string>F066D5CC3297B8210DEF9283DB43D47D</string>
-				<string>0E5F1E6E620086BCF03BA8BBFBA14087</string>
-				<string>41CCEAB5E5FBD77F75C27B461CA5CADA</string>
-				<string>32A3EC6A7C15611E127DBF7EE9C3563C</string>
-				<string>2347729FD010AA5CA0605319D56677F4</string>
-				<string>20ADC511361C61CCE6AEC730F774F0C3</string>
-				<string>8E524192C9DCAF55DE16D61723CE2F5C</string>
-				<string>C10A863B71DDD918D01302F60D3E0305</string>
-				<string>285298A886820642444510E45B8CC095</string>
-				<string>7E7BC4B07B376C24B8260EEE93378257</string>
-				<string>5D24EDEC4A7C6D05B06452F07FA4D0B9</string>
-				<string>9BBCAAD983A42E7F1BEE5CDB15803062</string>
-				<string>5900D09BCE561999A82C0288ED752647</string>
-				<string>E3F9878D30E0F314732B31883BC9F7E5</string>
-				<string>DF19BCC1FBA7C7F39FB271C7979AD94E</string>
-				<string>F0E8671287877FF2D0E6BC044EB74345</string>
-				<string>C5119EAF988E4EA6FAE3E1715EAAF6FD</string>
-				<string>97A441810CD719D8CD58C79F39E6BD3A</string>
-			</array>
-			<key>isa</key>
-			<string>PBXHeadersBuildPhase</string>
-			<key>runOnlyForDeploymentPostprocessing</key>
-			<string>0</string>
-		</dict>
 		<key>DAEC9AE30CF34E67658583ABAE47722D</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7745,6 +7886,52 @@
 			<string>Bookmark selected@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DB2851DB9E310551EE42755A20C34E36</key>
+		<dict>
+			<key>buildActionMask</key>
+			<string>2147483647</string>
+			<key>files</key>
+			<array>
+				<string>C80664D9B6D180A1DE0CBE1FC5E5227F</string>
+				<string>F139488D66431C137981DA6276312303</string>
+				<string>8D44490CAC1F45404860A652A90C5E95</string>
+				<string>66D67D98689407CE9155635C62802D33</string>
+				<string>01223446F0CDB158AECA2D38EBDF4B51</string>
+				<string>31655255EA8B483BFAFA4B666CAA8759</string>
+				<string>9975B4A40CF67F8876D1AC625C900043</string>
+				<string>B2C2551BE393ACF44FCF36C6236224AC</string>
+				<string>2643923A6F467556778D8029A0E04761</string>
+				<string>D22140716E8A6754253E65D5504AFA0C</string>
+				<string>BDA6393A2B29A5CB1E8C2B826F0D25A5</string>
+				<string>80609F4E2EB55D3859CF40FD86EC910B</string>
+				<string>74AC6F0F29F5A5E9632AF4EEC42EBCD2</string>
+				<string>1ACB4989DDD1BCFC4720BAB38A944140</string>
+				<string>974B301FAB877FDDFAE6CC24DB512D8F</string>
+				<string>E0735FFC065D4D8B26AB2E4EA7848F68</string>
+				<string>71290616954F357C6D636B1B013424C3</string>
+				<string>0A3CE57C1F826B60142D45692F09EDDA</string>
+				<string>B0A11C12FE92DEB61C30F36F100A7A98</string>
+				<string>F9337CA524D1E03BD61C49863D30F251</string>
+				<string>21EEE1252C861719657BB96490FD1462</string>
+				<string>A9D7F5A451D8EB7EEE3272D4479A5DFD</string>
+				<string>1E1FE3158D12F9F03EDEE4362D3CADC6</string>
+				<string>33EE5282DB44D89AC283185B1D61C095</string>
+				<string>49D5D878A5B03939B90EADE52EC3AED8</string>
+				<string>CC79D5EDB6EBF0279F99DC8F6AE80BF6</string>
+				<string>E06ECE7E309393C13488C87B7CCF1976</string>
+				<string>E9F33C8E074633940F08D6D52936DD97</string>
+				<string>00B1E3202AAFFF79EF574488246E28FF</string>
+				<string>BBEA53A6782107D581B158B59D1BAA1A</string>
+				<string>363D537DE3BF8DB19C8B6A491E56C804</string>
+				<string>043641F102D8C04A75D62DE84AE1D626</string>
+				<string>32E79764EE84C02D68AF6B5D849F24C5</string>
+				<string>80863275734F3C82D8FE3D45BA49029B</string>
+			</array>
+			<key>isa</key>
+			<string>PBXHeadersBuildPhase</string>
+			<key>runOnlyForDeploymentPostprocessing</key>
+			<string>0</string>
 		</dict>
 		<key>DB30F82FB1BE083D9471B965FB500CA2</key>
 		<dict>
@@ -7758,18 +7945,12 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>DB905B2B68B20134B73FFD4B49AE89F6</key>
+		<key>DB9DD44D0A225E1114C087500323D707</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>5DAC8C1BAEEE9C05A825449D85533D7A</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFContentViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>DC61702A42844E4ED762A73E8893436B</key>
 		<dict>
@@ -7848,6 +8029,21 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
+		<key>DDF19E1762F6542B3E3EFCF8238F9BFB</key>
+		<dict>
+			<key>children</key>
+			<array>
+				<string>ADE35CAFB7D948B69488CAB04FCBACC5</string>
+			</array>
+			<key>isa</key>
+			<string>PBXGroup</string>
+			<key>name</key>
+			<string>MNKPDFMetadata.xcdatamodel</string>
+			<key>path</key>
+			<string>MNKPDFMetadata.xcdatamodel</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
 		<key>DE093B541293EA2B785FA059FA7FC98B</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7858,6 +8054,13 @@
 			<string>Bookmark@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>DE24A2D4C4CFD6365199B04F405A0A34</key>
+		<dict>
+			<key>fileRef</key>
+			<string>DAEC9AE30CF34E67658583ABAE47722D</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>DE32D487C5DC7E96451384FB71F85017</key>
 		<dict>
@@ -7873,32 +8076,12 @@
 				</array>
 			</dict>
 		</dict>
-		<key>DE676A62FC096DFBB2439182A550124B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFMainToolbar.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DF19BCC1FBA7C7F39FB271C7979AD94E</key>
+		<key>DEB5285A1FC4CFD3C68C719D9444A639</key>
 		<dict>
 			<key>fileRef</key>
-			<string>063B3D444A588A9FCE275194FEEE37E3</string>
+			<string>8BB57663E37FE2DD3869C0E57192ED84</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
 		</dict>
 		<key>DF2B44643FCAD04CE2BE730C4CA639D2</key>
 		<dict>
@@ -7907,7 +8090,7 @@
 			<key>name</key>
 			<string>MNKPDFEditor</string>
 			<key>target</key>
-			<string>93E2DCF2495D0EE1ACDEDC3361591DFB</string>
+			<string>BB962E6A33CB02D17CD63BA048E16A40</string>
 			<key>targetProxy</key>
 			<string>18DAD9672CBA5624B2411C7BADD0F4DB</string>
 		</dict>
@@ -7926,26 +8109,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>DF7501ED88653585D066CB2A05E0D439</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFToolbarView.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>DFA0BD5D2E7CC9A7A16D15808555E23F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DAEC9AE30CF34E67658583ABAE47722D</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>E01A55B98F78C04E6B0310CF11A87896</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -7956,6 +8119,13 @@
 			<string>Thumbs@2x.png</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E02C76478566001E494165DF38462575</key>
+		<dict>
+			<key>fileRef</key>
+			<string>C3686CABE4B185FE084ACDAA06F5BC9A</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>E0554EF2942F72AD762F1056DCF6FB23</key>
 		<dict>
@@ -7970,12 +8140,33 @@
 			<key>remoteInfo</key>
 			<string>Expecta</string>
 		</dict>
-		<key>E087B4FA40CBEA6002EE42672C190E79</key>
+		<key>E06ECE7E309393C13488C87B7CCF1976</key>
 		<dict>
 			<key>fileRef</key>
-			<string>EA6A2BC35D6A882B3909E93B3A3398F0</string>
+			<string>C08571B8C5572E69DAAB225218A1BFE0</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
+		</dict>
+		<key>E0735FFC065D4D8B26AB2E4EA7848F68</key>
+		<dict>
+			<key>fileRef</key>
+			<string>13AEAE5ECD1290C67BAAF65F1E00F689</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+			<key>settings</key>
+			<dict>
+				<key>ATTRIBUTES</key>
+				<array>
+					<string>Public</string>
+				</array>
+			</dict>
 		</dict>
 		<key>E0A077DFB064B79685B810CCEFB2F1EF</key>
 		<dict>
@@ -8002,19 +8193,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>E110CAF842C79028790F2EF5B2BC71F6</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFThumbOperation.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E1EC4532663CA75DE5BD00CB0A56814D</key>
 		<dict>
@@ -8057,32 +8235,12 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E3F9878D30E0F314732B31883BC9F7E5</key>
+		<key>E3D7670FFC5A5B05775026B41328D968</key>
 		<dict>
 			<key>fileRef</key>
-			<string>2196EB27A0BD37E7024DB90AA3BF01FA</string>
+			<string>C1D66BF94C68E6D4114DB96D97E4FF22</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>E410751757103423D8563AC2786FEF17</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFModelViewController.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E42AB63F84DC20AD246EB8FFA3EFEF2C</key>
 		<dict>
@@ -8111,26 +8269,6 @@
 			<string>PBXFrameworksBuildPhase</string>
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
-		</dict>
-		<key>E4AD1C94191783A3006569BE80983FC1</key>
-		<dict>
-			<key>fileRef</key>
-			<string>0D3BD18C42BF9AA27B361FCDB138D150</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>E4DD4BFFDFD8CF8765587A7FC693283A</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFPageNumberLabel.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E5970E5D763F65673B9F5F4C5D0A9D0F</key>
 		<dict>
@@ -8173,6 +8311,13 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
+		<key>E64FC0CF29A3A57030DDA75D39D8D4C9</key>
+		<dict>
+			<key>fileRef</key>
+			<string>B961F2CC4B727D941E055C14D41630D3</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>E6615D8B5B6E3F9CF0F929310595C446</key>
 		<dict>
 			<key>fileRef</key>
@@ -8187,12 +8332,18 @@
 				</array>
 			</dict>
 		</dict>
-		<key>E680AB0C61EC25682CEBC76E6755BCCB</key>
+		<key>E6B6BFE80190C08C18553CC90C0ABB56</key>
 		<dict>
-			<key>fileRef</key>
-			<string>8BB57663E37FE2DD3869C0E57192ED84</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFContentView.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>E6B836B352B13C63D3C0FA0E500C98A4</key>
 		<dict>
@@ -8208,13 +8359,6 @@
 			<key>runOnlyForDeploymentPostprocessing</key>
 			<string>0</string>
 		</dict>
-		<key>E6C95D9F3B63186AC574A1D3FB7B48FC</key>
-		<dict>
-			<key>fileRef</key>
-			<string>D6E02F12C721217BD525DDF55875792C</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>E735386085CE344F6A01178CF4763852</key>
 		<dict>
 			<key>fileRef</key>
@@ -8229,7 +8373,20 @@
 				</array>
 			</dict>
 		</dict>
-		<key>E7EF3902009242B6DA471B33E42BD0D1</key>
+		<key>E774B7E61C3AC009CFA67C204F9B9676</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolEllipse.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
+		</dict>
+		<key>E8D56EC97C650A822E7781DED750ED28</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
@@ -8238,7 +8395,7 @@
 			<key>lastKnownFileType</key>
 			<string>sourcecode.c.objc</string>
 			<key>path</key>
-			<string>MNKPDFContentView.m</string>
+			<string>MNKPDFDrawingToolPen.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8255,10 +8412,10 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>E947794728AEE9C06406624E1137A9CC</key>
+		<key>E9F33C8E074633940F08D6D52936DD97</key>
 		<dict>
 			<key>fileRef</key>
-			<string>9CCFC10FA6D498D2C2AB0C9FE3322ECC</string>
+			<string>B220988DF4EC6CCCC42D207F4595EBD8</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -8268,13 +8425,6 @@
 					<string>Public</string>
 				</array>
 			</dict>
-		</dict>
-		<key>E9F3225ECB3208B0CC1FC78D62B9FFD6</key>
-		<dict>
-			<key>fileRef</key>
-			<string>9DDCEAEC852066D3A36B6C63DBC1EB39</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>EA18A64C5A463362E721A1B79833692A</key>
 		<dict>
@@ -8287,32 +8437,38 @@
 			<key>targetProxy</key>
 			<string>2C98532365B2E266338D424663CF0002</string>
 		</dict>
-		<key>EA6A2BC35D6A882B3909E93B3A3398F0</key>
+		<key>EA9884827D16E39134B9831771DC415C</key>
+		<dict>
+			<key>fileRef</key>
+			<string>D04A1786FE03CE89A4DA232724370AAC</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>EAB7462F1E0B67CD20200D24325106B1</key>
 		<dict>
 			<key>includeInIndex</key>
 			<string>1</string>
 			<key>isa</key>
 			<string>PBXFileReference</string>
 			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
+			<string>sourcecode.c.h</string>
 			<key>path</key>
-			<string>MNKPDFDrawingToolRectangle.m</string>
+			<string>MNKPDFEnumList.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EABB705F35D1470812F15DF09CF069F9</key>
+		<key>EABA0E23C43FCEA9E76D52EAF1B3FDCA</key>
 		<dict>
-			<key>fileRef</key>
-			<string>3D86FB9A879DCCDA7E31D71BD3498F75</string>
+			<key>includeInIndex</key>
+			<string>1</string>
 			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolPen.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>EABF60DF38CA5FFA7C64219D10928FA8</key>
 		<dict>
@@ -8326,19 +8482,6 @@
 			<string>DD86ABD743B0605672C710ADC56EB9DA</string>
 			<key>remoteInfo</key>
 			<string>FBSnapshotTestCase</string>
-		</dict>
-		<key>EB433D82B5B77B46451F1E55150DFBD2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.h</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolPen.h</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
 		</dict>
 		<key>EC13DDF6CA2C4CAAA835ABE5DA3A731F</key>
 		<dict>
@@ -8360,19 +8503,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EC5DAA6D97491E1B031217ED250A5A7E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingView.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>ECE2F34430398BA3207F4D16C5CCA40E</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -8381,19 +8511,6 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Rotate-highlighted@2x.png</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>ECE3C43B6AD0C269E3B49E08DC6FD1A2</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFModelViewController.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
@@ -8451,18 +8568,12 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>EF63B6C91D9D10DE76F0C3B25BE88A6E</key>
+		<key>EF5524F05F54B71C0BAC66E553400CE4</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>37FA9F4D26F41E75C06298E5A962A398</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFMainToolbar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>EF6497EE123F6BC0C1B09717437C5908</key>
 		<dict>
@@ -8475,6 +8586,33 @@
 				<key>COMPILER_FLAGS</key>
 				<string>-fno-objc-arc</string>
 			</dict>
+		</dict>
+		<key>EFD068AC1CF00A714FB7D255E8DF09E8</key>
+		<dict>
+			<key>buildConfigurations</key>
+			<array>
+				<string>A596B40AD57D212A8155E53B1DE8562A</string>
+				<string>9A07877590032EF9E034B0519A65EA3A</string>
+			</array>
+			<key>defaultConfigurationIsVisible</key>
+			<string>0</string>
+			<key>defaultConfigurationName</key>
+			<string>Release</string>
+			<key>isa</key>
+			<string>XCConfigurationList</string>
+		</dict>
+		<key>F04FBACA94609DAAB8AB2CFAEF8B2C07</key>
+		<dict>
+			<key>includeInIndex</key>
+			<string>1</string>
+			<key>isa</key>
+			<string>PBXFileReference</string>
+			<key>lastKnownFileType</key>
+			<string>sourcecode.c.h</string>
+			<key>path</key>
+			<string>MNKPDFDrawingToolRectangle.h</string>
+			<key>sourceTree</key>
+			<string>&lt;group&gt;</string>
 		</dict>
 		<key>F0550288A3E4DA5B207A666BE8E62168</key>
 		<dict>
@@ -8491,20 +8629,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F066D5CC3297B8210DEF9283DB43D47D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>A993251B3AA5991BB79903088CAEBC70</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
 		<key>F0DDF02A078B917997FF025BB33BB842</key>
 		<dict>
 			<key>fileRef</key>
@@ -8519,33 +8643,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>F0E8671287877FF2D0E6BC044EB74345</key>
-		<dict>
-			<key>fileRef</key>
-			<string>DF7501ED88653585D066CB2A05E0D439</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-			<key>settings</key>
-			<dict>
-				<key>ATTRIBUTES</key>
-				<array>
-					<string>Public</string>
-				</array>
-			</dict>
-		</dict>
-		<key>F120994942024891CA2BF9C7D58C7D8E</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFContentViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>F12D57414A73406831CC032A7170DBFF</key>
 		<dict>
 			<key>fileRef</key>
@@ -8558,10 +8655,10 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>F2B2F99434B942A453D012DAD7B697FA</key>
+		<key>F139488D66431C137981DA6276312303</key>
 		<dict>
 			<key>fileRef</key>
-			<string>5E00A221C93511EE37715BAAD265B66B</string>
+			<string>B8A21AD16DF620F9E057C23A15348330</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -8571,6 +8668,13 @@
 					<string>Public</string>
 				</array>
 			</dict>
+		</dict>
+		<key>F1B7C725BFF9082F63591C4C7750A8E4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>ADE35CAFB7D948B69488CAB04FCBACC5</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>F2D3A79E58CE53867199D68A7690BE0C</key>
 		<dict>
@@ -8621,13 +8725,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>F44F9F864DD84099CA991F16CB40B96D</key>
-		<dict>
-			<key>fileRef</key>
-			<string>656942DEFB71C1FB2702D8BBBE637AD5</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>F46CC7A40B5A6DBBFC9DF31429A3E7F2</key>
 		<dict>
 			<key>fileRef</key>
@@ -8664,13 +8761,6 @@
 			<string>Expecta/Matchers/EXPMatchers+contain.h</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
-		</dict>
-		<key>F6F97F8B75BEDFE3275AB1DCC9D23DF4</key>
-		<dict>
-			<key>fileRef</key>
-			<string>6F2AD823AAB40CACD1E24B28CC205C09</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
 		</dict>
 		<key>F6FDC782B0E73551F14C148486B9FD6B</key>
 		<dict>
@@ -8724,20 +8814,6 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>F80DE73867F2B1B9E124932D570D2FFF</key>
-		<dict>
-			<key>fileRef</key>
-			<string>EC5DAA6D97491E1B031217ED250A5A7E</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
-		<key>F8D027C69BE8B2A1E6417CB34B4C7E6F</key>
-		<dict>
-			<key>fileRef</key>
-			<string>B961F2CC4B727D941E055C14D41630D3</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>F919AC65B3FC5AFE2A8CF3C4F81817E4</key>
 		<dict>
 			<key>containerPortal</key>
@@ -8751,10 +8827,10 @@
 			<key>remoteInfo</key>
 			<string>Expecta+Snapshots</string>
 		</dict>
-		<key>F9E5F01BB8F388387F83BA41F3FA8103</key>
+		<key>F9337CA524D1E03BD61C49863D30F251</key>
 		<dict>
 			<key>fileRef</key>
-			<string>13183C70F48F4315ED6D50316227B379</string>
+			<string>AF1849438761C44CEE60EFD75658056B</string>
 			<key>isa</key>
 			<string>PBXBuildFile</string>
 			<key>settings</key>
@@ -8769,7 +8845,7 @@
 		<dict>
 			<key>children</key>
 			<array>
-				<string>69A35640F436BD6F26E0511B0A9709DB</string>
+				<string>2AC06A562EC200EDA9DAD1D87DBF9063</string>
 				<string>9AA7E46954A2664DA3F6C306F34A7400</string>
 				<string>94D361044396FCEAEB5AF35B79A1E7CE</string>
 			</array>
@@ -8782,18 +8858,19 @@
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>
-		<key>FAF391945815EC399B67879ADB2829E4</key>
+		<key>FACB7AABE68C753D65B9635602522585</key>
 		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
+			<key>fileRef</key>
+			<string>F7275069482A724C0D580E9768D4D560</string>
 			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolbar.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
+			<string>PBXBuildFile</string>
+		</dict>
+		<key>FB20FF1C77156356AF193CA40CA225CC</key>
+		<dict>
+			<key>fileRef</key>
+			<string>9E9DB9E0E0D43BFBF0F073786AF734D4</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
 		</dict>
 		<key>FB362E8DBE566CD58ABD4124535F2081</key>
 		<dict>
@@ -8991,13 +9068,6 @@
 				</array>
 			</dict>
 		</dict>
-		<key>FD3EB46CDD4C3F1E8F9837469E11D243</key>
-		<dict>
-			<key>fileRef</key>
-			<string>E01A55B98F78C04E6B0310CF11A87896</string>
-			<key>isa</key>
-			<string>PBXBuildFile</string>
-		</dict>
 		<key>FD617D9E76C132DBC45A4BC91F468B6A</key>
 		<dict>
 			<key>fileRef</key>
@@ -9077,19 +9147,6 @@
 				<string>-fno-objc-arc</string>
 			</dict>
 		</dict>
-		<key>FEE550CF1C9B49911CF05AAC9F6150EF</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFViewController.m</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
 		<key>FF4CC914D3D46CEB93550E3513482C9B</key>
 		<dict>
 			<key>fileRef</key>
@@ -9104,6 +9161,13 @@
 				</array>
 			</dict>
 		</dict>
+		<key>FF7BA614FD8CB034A03E506FA933FCC4</key>
+		<dict>
+			<key>fileRef</key>
+			<string>E8D56EC97C650A822E7781DED750ED28</string>
+			<key>isa</key>
+			<string>PBXBuildFile</string>
+		</dict>
 		<key>FFCA6E23CE38D336A38AFCF29986180A</key>
 		<dict>
 			<key>includeInIndex</key>
@@ -9112,19 +9176,6 @@
 			<string>PBXFileReference</string>
 			<key>path</key>
 			<string>Expecta.modulemap</string>
-			<key>sourceTree</key>
-			<string>&lt;group&gt;</string>
-		</dict>
-		<key>FFDD1AF8D4B4F4FFF9FD1322F0A5868B</key>
-		<dict>
-			<key>includeInIndex</key>
-			<string>1</string>
-			<key>isa</key>
-			<string>PBXFileReference</string>
-			<key>lastKnownFileType</key>
-			<string>sourcecode.c.objc</string>
-			<key>path</key>
-			<string>MNKPDFDrawingToolEllipse.m</string>
 			<key>sourceTree</key>
 			<string>&lt;group&gt;</string>
 		</dict>

@@ -9,6 +9,7 @@
 #import "MNKPDFDrawingToolbar.h"
 #import "MNKPDFDrawingToolbarButton.h"
 #import "MNKPDFConstants.h"
+#import "UIImage_MNKPDFEditorBundle.h"
 
 @interface MNKPDFDrawingToolbar ()
 
@@ -27,27 +28,27 @@
         CGFloat offsetTop = DEFAULT_SPACING;
         CGFloat offsetShift = DEFAULT_SPACING + DEFAULT_BUTTON_SIZE.height;
         
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypePen image:[UIImage imageNamed:@"Pen"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypePen image:[UIImage MNKPDFEditorImageNamed:@"Pen"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeLine image:[UIImage imageNamed:@"Line"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeLine image:[UIImage MNKPDFEditorImageNamed:@"Line"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeEllipseFilled image:[UIImage imageNamed:@"Circle-Filled"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeEllipseFilled image:[UIImage MNKPDFEditorImageNamed:@"Circle-Filled"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeEllipseStroked image:[UIImage imageNamed:@"Circle-Stroked"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeEllipseStroked image:[UIImage MNKPDFEditorImageNamed:@"Circle-Stroked"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeRectangleFilled image:[UIImage imageNamed:@"Square-Filled"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeRectangleFilled image:[UIImage MNKPDFEditorImageNamed:@"Square-Filled"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeRectangleStroked image:[UIImage imageNamed:@"Square-Stroked"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeRectangleStroked image:[UIImage MNKPDFEditorImageNamed:@"Square-Stroked"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeEraser image:[UIImage imageNamed:@"Eraser"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeEraser image:[UIImage MNKPDFEditorImageNamed:@"Eraser"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypePalette image:[UIImage imageNamed:@"Palette"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypePalette image:[UIImage MNKPDFEditorImageNamed:@"Palette"] highlightedImage:nil offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeUndo image:[UIImage imageNamed:@"Undo"] highlightedImage:[UIImage imageNamed:@"Undo-Highlighted"] offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeUndo image:[UIImage MNKPDFEditorImageNamed:@"Undo"] highlightedImage:[UIImage MNKPDFEditorImageNamed:@"Undo-Highlighted"] offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeRedo image:[UIImage imageNamed:@"Redo"] highlightedImage:[UIImage imageNamed:@"Redo-Highlighted"] offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeRedo image:[UIImage MNKPDFEditorImageNamed:@"Redo"] highlightedImage:[UIImage MNKPDFEditorImageNamed:@"Redo-Highlighted"] offset:offsetTop];
         offsetTop += offsetShift;
-        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeClear image:[UIImage imageNamed:@"Clear"] highlightedImage:nil offset:offsetTop];
+        [self createToolbarButtonWithType:MNKPDFDrawingToolbarButtonTypeClear image:[UIImage MNKPDFEditorImageNamed:@"Clear"] highlightedImage:nil offset:offsetTop];
     }
     return self;
 }

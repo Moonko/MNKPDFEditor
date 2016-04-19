@@ -33,7 +33,6 @@
 }
 
 - (void)draw {
-    
     CGContextRef context = UIGraphicsGetCurrentContext();
     CGContextSetAlpha(context, self.lineAlpha);
     CGRect rectToDraw = CGRectMake(self.startPoint.x, self.startPoint.y, self.endPoint.x - self.startPoint.x, self.endPoint.y - self.startPoint.y);

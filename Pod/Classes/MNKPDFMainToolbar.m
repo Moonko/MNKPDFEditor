@@ -8,6 +8,7 @@
 
 #import "MNKPDFMainToolbar.h"
 #import "MNKPDFConstants.h"
+#import "UIImage_MNKPDFEditorBundle.h"
 
 @interface MNKPDFMainToolbar ()
 
@@ -43,7 +44,7 @@
         UIButton *thumbsButton = [UIButton buttonWithType:UIButtonTypeCustom];
         thumbsButton.frame = CGRectMake(currentLeftOffset, DEFAULT_SPACING,
                                         DEFAULT_BUTTON_SIZE.width, DEFAULT_BUTTON_SIZE.height);
-        [thumbsButton setImage:[UIImage imageNamed:@"Thumbs"] forState:UIControlStateNormal];
+        [thumbsButton setImage:[UIImage MNKPDFEditorImageNamed:@"Thumbs"] forState:UIControlStateNormal];
         [thumbsButton addTarget:self action:@selector(thumbsButtonTapped) forControlEvents:UIControlEventTouchUpInside];
         thumbsButton.exclusiveTouch = YES;
         [self addSubview:thumbsButton];
@@ -56,9 +57,9 @@
 //                                          DEFAULT_BUTTON_SIZE.width, DEFAULT_BUTTON_SIZE.height);
 //        [_bookmarkButton addTarget:self action:@selector(bookmarkButtonTapped)
 //                  forControlEvents:UIControlEventTouchUpInside];
-//        [_bookmarkButton setImage:[UIImage imageNamed:@"Bookmark"]
+//        [_bookmarkButton setImage:[UIImage MNKPDFEditorImageNamed:@"Bookmark"]
 //                        forState:UIControlStateNormal];
-//        [_bookmarkButton setImage:[UIImage imageNamed:@"Bookmark selected"]
+//        [_bookmarkButton setImage:[UIImage MNKPDFEditorImageNamed:@"Bookmark selected"]
 //                        forState:UIControlStateSelected];
 //        [self addSubview:_bookmarkButton];
         
@@ -66,8 +67,8 @@
         
         _rotateButton = [UIButton buttonWithType:UIButtonTypeCustom];
         _rotateButton.frame = CGRectMake(currentRightOffset, DEFAULT_SPACING, DEFAULT_BUTTON_SIZE.width, DEFAULT_BUTTON_SIZE.height);
-        [_rotateButton setImage:[UIImage imageNamed:@"Rotate"] forState:UIControlStateNormal];
-        [_rotateButton setImage:[UIImage imageNamed:@"Rotate-highlighted"] forState:UIControlStateHighlighted];
+        [_rotateButton setImage:[UIImage MNKPDFEditorImageNamed:@"Rotate"] forState:UIControlStateNormal];
+        [_rotateButton setImage:[UIImage MNKPDFEditorImageNamed:@"Rotate-highlighted"] forState:UIControlStateHighlighted];
         [_rotateButton addTarget:self action:@selector(rotateButtonTapped)
                forControlEvents:UIControlEventTouchUpInside];
         _rotateButton.exclusiveTouch = YES;

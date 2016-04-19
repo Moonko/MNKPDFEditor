@@ -32,6 +32,7 @@
 #import "MNKPDFToolbarView.h"
 #import "MNKPDFViewController.h"
 #import "MNKReordableLayout.h"
+#import "UIImage_MNKPDFEditorBundle.h"
 
 FOUNDATION_EXPORT double MNKPDFEditorVersionNumber;
 FOUNDATION_EXPORT const unsigned char MNKPDFEditorVersionString[];

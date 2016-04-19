@@ -32,7 +32,7 @@
 }
 
 - (void)draw {
-    
+
     CGContextRef context = UIGraphicsGetCurrentContext();
     CGContextSetAlpha(context, self.lineAlpha);
     CGContextSetLineWidth(context, self.lineWidth);

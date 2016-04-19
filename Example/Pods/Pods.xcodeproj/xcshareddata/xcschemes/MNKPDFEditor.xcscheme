@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'A437B0C26AE47CF0DA521B6E'
+               BlueprintIdentifier = 'CF323232F6AC9B00D33EB378'
                BlueprintName = 'MNKPDFEditor'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'MNKPDFEditor.framework'>
